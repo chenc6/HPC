@@ -11,6 +11,7 @@ all: PQCgenKAT_sign test/test_vectors test/test_dilithium
 
 PQCgenKAT_sign: PQCgenKAT_sign.c rng.c $(SOURCES) rng.h $(HEADERS)
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto    #-pg modified by chen to add a gprof command
+	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -S -lcrypto # modified by chen, will generate a .S file
 
 test/test_vectors: test/test_vectors.c rng.c $(SOURCES) rng.h $(HEADERS)
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto
