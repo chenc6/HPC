@@ -42,7 +42,7 @@ main()
     int                 ret_val;
     
     // Create the REQUEST file
-//    sprintf(fn_req, "/home/odroid/anushree/pqcSecurityLevels/Dilithium/KAT/dilithium2/PQCsignKAT_2800.req");
+//sprintf(fn_req, "/home/odroid/anushree/pqcSecurityLevels/Dilithium/KAT/dilithium2/PQCsignKAT_2800.req");
   //  if ( (fp_req = fopen(fn_req, "w")) == NULL ) {
     //    printf("Couldn't open <%s> for write\n", fn_req);
       //  return KAT_FILE_OPEN_ERROR;
@@ -145,16 +145,10 @@ main()
     int n = 5; //gentle, not able to do that for ransome, generate 150 samples of each case
 
 	while(n>0){
-	//added by chen
-	//usleep(50000);
 	if ( (ret_val = crypto_sign(sm, &smlen, m, mlen, sk)) != 0) {
             printf("crypto_sign returned <%d>\n", ret_val);
             return KAT_CRYPTO_FAILURE;
         }
-        //usleep(2000);
-        //fprintf(fp_rsp, "smlen = %llu\n", smlen);
-        //fprintBstr(fp_rsp, "sm = ", sm, smlen);
-        //fprintf(fp_rsp, "\n");
         
         if ( (ret_val = crypto_sign_open(m1, &mlen1, sm, smlen, pk)) != 0) {
             printf("crypto_sign_open returned <%d>\n", ret_val);
@@ -181,10 +175,6 @@ main()
         free(m);
         free(m1);
         free(sm);
-      
-    //} while ( !done );
-    
-//    fclose(fp_req);
     fclose(fp_rsp);
 
     return KAT_SUCCESS;
