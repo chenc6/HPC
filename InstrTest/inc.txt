@@ -1,0 +1,159 @@
+# started on Fri Feb 26 17:03:42 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+        20,113,377      instructions:u                                                ( +-  0.00% )
+        10,023,879      branches:u                                                    ( +-  0.00% )
+
+          0.014368 +- 0.000155 seconds time elapsed  ( +-  1.08% )
+
+# started on Fri Feb 26 17:03:44 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             1,477      branch-misses:u                                               ( +-  0.43% )
+           312,987      bus-cycles:u                                                  ( +-  0.27% )
+
+          0.014421 +- 0.000126 seconds time elapsed  ( +-  0.87% )
+
+# started on Fri Feb 26 17:03:45 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             4,864      cache-misses:u            #   43.776 % of all cache refs      ( +-  4.47% )
+            11,110      cache-references:u                                            ( +-  1.13% )
+
+          0.014353 +- 0.000151 seconds time elapsed  ( +-  1.05% )
+
+# started on Fri Feb 26 17:03:47 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+        51,254,316      cycles:u                                                      ( +-  0.26% )
+        38,301,664      ref-cycles:u                                                  ( +-  0.27% )
+
+          0.015721 +- 0.000287 seconds time elapsed  ( +-  1.82% )
+
+# started on Fri Feb 26 17:03:48 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             3,891      L1-dcache-load-misses     #    0.04% of all L1-dcache hits    ( +-  1.40% )
+         9,995,277      L1-dcache-loads                                               ( +-  0.04% )
+
+          0.015729 +- 0.000218 seconds time elapsed  ( +-  1.38% )
+
+# started on Fri Feb 26 17:03:50 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+        10,010,155      L1-dcache-stores                                            
+             3,890      L1-icache-load-misses                                         ( +-  1.05% )
+
+          0.016019 +- 0.000314 seconds time elapsed  ( +-  1.96% )
+
+# started on Fri Feb 26 17:03:52 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             1,532      branch-load-misses                                            ( +-  0.57% )
+        10,023,881      branch-loads                                                  ( +-  0.00% )
+
+          0.016553 +- 0.000262 seconds time elapsed  ( +-  1.58% )
+
+# started on Fri Feb 26 17:03:53 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+               303      dTLB-load-misses          #    0.00% of all dTLB cache hits   ( +-  0.70% )
+         9,990,082      dTLB-loads                                                    ( +-  0.05% )
+
+          0.015576 +- 0.000207 seconds time elapsed  ( +-  1.33% )
+
+# started on Fri Feb 26 17:03:55 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+                59      dTLB-store-misses                                             ( +-  0.70% )
+        10,010,155      dTLB-stores                                                 
+
+          0.015331 +- 0.000206 seconds time elapsed  ( +-  1.35% )
+
+# started on Fri Feb 26 17:03:57 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+               214      iTLB-load-misses          #  444.02% of all iTLB cache hits   ( +-  1.12% )
+                48      iTLB-loads                                                    ( +-  4.99% )
+
+          0.015067 +- 0.000129 seconds time elapsed  ( +-  0.86% )
+
+# started on Fri Feb 26 17:03:58 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+                 0      alignment-faults:u                                          
+                41      page-faults:u                                                 ( +-  0.25% )
+
+          0.014556 +- 0.000140 seconds time elapsed  ( +-  0.96% )
+
+# started on Fri Feb 26 17:04:00 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+                 0      bpf-output:u                                                
+                 0      context-switches:u                                          
+
+          0.014452 +- 0.000139 seconds time elapsed  ( +-  0.96% )
+
+# started on Fri Feb 26 17:04:01 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             13.69 msec cpu-clock:u               #    0.945 CPUs utilized            ( +-  0.46% )
+                 0      cpu-migrations:u          #    0.000 K/sec                  
+
+          0.014482 +- 0.000152 seconds time elapsed  ( +-  1.05% )
+
+# started on Fri Feb 26 17:04:03 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+                 0      dummy:u                                                     
+                 0      emulation-faults:u                                          
+
+          0.014290 +- 0.000134 seconds time elapsed  ( +-  0.94% )
+
+# started on Fri Feb 26 17:04:04 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+                 0      major-faults:u                                              
+                41      minor-faults:u                                                ( +-  0.30% )
+
+          0.014589 +- 0.000159 seconds time elapsed  ( +-  1.09% )
+
+# started on Fri Feb 26 17:04:06 2021
+
+
+ Performance counter stats for './test.o' (100 runs):
+
+             13.65 msec task-clock:u              #    0.953 CPUs utilized            ( +-  0.42% )
+
+          0.014329 +- 0.000135 seconds time elapsed  ( +-  0.94% )
+

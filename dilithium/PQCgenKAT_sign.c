@@ -41,74 +41,24 @@ main()
     unsigned char       pk[CRYPTO_PUBLICKEYBYTES], sk[CRYPTO_SECRETKEYBYTES];
     int                 ret_val;
     
-    // Create the REQUEST file
-//sprintf(fn_req, "/home/odroid/anushree/pqcSecurityLevels/Dilithium/KAT/dilithium2/PQCsignKAT_2800.req");
-  //  if ( (fp_req = fopen(fn_req, "w")) == NULL ) {
-    //    printf("Couldn't open <%s> for write\n", fn_req);
-      //  return KAT_FILE_OPEN_ERROR;
-    //}
+    
     sprintf(fn_rsp, "PQCsignKAT_2800.rsp");
-    //sprintf(fn_rsp, "./PQCsignKAT_2800.rsp");
-
-   //while(1){ 
+    
     if ( (fp_rsp = fopen(fn_rsp, "r")) == NULL ) {
         printf("Couldn't open <%s> for read\n", fn_rsp);
         return KAT_FILE_OPEN_ERROR;
     }
     
     
-    //for (int i=0; i<48; i++)
-      //  entropy_input[i] = i;
-
-  //  randombytes_init(entropy_input, NULL, 256);
-    /*
-    for (int i=0; i<100; i++) {
-        fprintf(fp_req, "count = %d\n", i);
-        randombytes(seed, 48);
-        fprintBstr(fp_req, "seed = ", seed, 48);
-        mlen = 33*(i+1);
-        fprintf(fp_req, "mlen = %llu\n", mlen);
-        randombytes(msg, mlen);
-        fprintBstr(fp_req, "msg = ", msg, mlen);
-        fprintf(fp_req, "pk =\n");
-        fprintf(fp_req, "sk =\n");
-        fprintf(fp_req, "smlen =\n");
-        fprintf(fp_req, "sm =\n\n");
-    }
-    fclose(fp_req);
-    */
-    //Create the RESPONSE file based on what's in the REQUEST file
-   
-   // if ( (fp_req = fopen(fn_req, "r")) == NULL ) {
-     //   printf("Couldn't open <%s> for read\n", fn_req);
-       // return KAT_FILE_OPEN_ERROR;
-    //}
-    
-    //fprintf(fp_rsp, "# %s\n\n", CRYPTO_ALGNAME);
     done = 0;
-    //do {
-      //  if ( FindMarker(fp_rsp, "count = ") )
-        //    fscanf(fp_rsp, "%d", &count);
-        //else {
-          //  done = 1;
-           // break;
-       // }
- //       fprintf(fp_rsp, "count = %d\n", count);
         if ( !ReadHex(fp_rsp, seed, 48, "seed = ") ) {
             printf("ERROR: unable to read 'seed' from <%s>\n", fn_rsp);
             return KAT_DATA_ERROR;
         }
-//        fprintBstr(fp_rsp, "seed = ", seed, 48);
+
         
         randombytes_init(seed, NULL, 256);
         
-//        if ( FindMarker(fp_rsp, "mlen = ") )
-  //          fscanf(fp_rsp, "%llu", &mlen);
-    //    else {
-      //      printf("ERROR: unable to read 'mlen' from <%s>\n", fn_rsp);
-        //    return KAT_DATA_ERROR;
-        //}
-//        fprintf(fp_rsp, "mlen = %llu\n", mlen);
         mlen=33;
         m = (unsigned char *)calloc(mlen, sizeof(unsigned char));
         m1 = (unsigned char *)calloc(mlen+CRYPTO_BYTES, sizeof(unsigned char));
@@ -118,15 +68,7 @@ main()
             printf("ERROR: unable to read 'msg' from <%s>\n", fn_rsp);
             return KAT_DATA_ERROR;
         }
- //       fprintBstr(fp_rsp, "msg = ", m, mlen);
-        
-        // Generate the public/private keypair
-   //     if ( (ret_val = crypto_sign_keypair(pk, sk)) != 0) {
-     //       printf("crypto_sign_keypair returned <%d>\n", ret_val);
-       //     return KAT_CRYPTO_FAILURE;
-        //}
-        //fprintBstr(fp_rsp, "pk = ", pk, CRYPTO_PUBLICKEYBYTES);
-        //fprintBstr(fp_rsp, "sk = ", sk, CRYPTO_SECRETKEYBYTES);
+
         if( !ReadHex(fp_rsp,pk,CRYPTO_PUBLICKEYBYTES, "pk = ")){
 		printf("Error: unable to read pk from %s\n",fn_rsp);
             return KAT_DATA_ERROR;
