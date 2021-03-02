@@ -232,23 +232,21 @@ void test_clflush()
 		"test_loop:\n\t"
 		"clflush -80(%rbp)\n\t"
 		"mov -80(%rbp), %rax\n\t"
-		"mov -76(%rbp), %rax\n\t"
-		"mov -72(%rbp), %rax\n\t"
-		"mov -68(%rbp), %rax\n\t"
-		"mov -64(%rbp), %rax\n\t"
-		"mov -60(%rbp), %rax\n\t"
-		"mov -56(%rbp), %rax\n\t"
-		"mov -52(%rbp), %rax\n\t"
-	/*
-	movl	$8, -48(%rbp)
-	movl	$9, -44(%rbp)
-	movl	$10, -40(%rbp)
-	movl	$11, -36(%rbp)
-	movl	$12, -32(%rbp)
-	movl	$13, -28(%rbp)
-	movl	$14, -24(%rbp)
-	movl	$15, -20(%rbp)
-	*/
+		//"mov -76(%rbp), %rax\n\t"
+		//"mov -72(%rbp), %rax\n\t"
+		//"mov -68(%rbp), %rax\n\t"
+		//"mov -64(%rbp), %rax\n\t"
+		//"mov -60(%rbp), %rax\n\t"
+		//"mov -56(%rbp), %rax\n\t"
+		//"mov -52(%rbp), %rax\n\t"
+		"mov -48(%rbp), %rax\n\t"
+		//"mov -44(%rbp), %rax\n\t"
+		//"mov -40(%rbp), %rax\n\t"
+		//"mov -36(%rbp), %rax\n\t"
+		//"mov -32(%rbp), %rax\n\t"
+		//"mov -28(%rbp), %rax\n\t"
+		//"mov -24(%rbp), %rax\n\t"
+		//"mov -20(%rbp), %rax\n\t"
 		"loop test_loop\n\t"
 		);
 }
