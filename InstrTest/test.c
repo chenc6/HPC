@@ -4,13 +4,20 @@
 void ctrl_flow_instr();
 void binary_arith_instr();
 void logic_instr();
-
+void shift_instr();
+void flag_instr();
+void miscella_instr();
+void test_clflush();
 
 int main()
 {
 	//ctrl_flow_instr();
 	//binary_arith_instr();
-	logic_instr();
+	//logic_instr();
+	//shift_instr();
+	//flag_instr();
+	//miscella_instr();
+	test_clflush();
 	return 0;
 }
 
@@ -128,5 +135,120 @@ void logic_instr()
 		"logic_loop:\n\t"
 		"notl -4(%rbp)\n\t"
 		"loop logic_loop\n\t"
+		);
+}
+
+void shift_instr()
+{
+	int i = 0;
+	//SARSALSHRSHL
+	//memory only, prevent change value of register
+	/*
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"shift_loop:\n\t"
+		"sarl $1, -4(%rbp)\n\t"
+		"loop shift_loop\n\t"
+		);
+	*/
+
+	//RORROL
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"shift_loop:\n\t"
+		"rorl $1, -4(%rbp)\n\t"
+		"loop shift_loop\n\t"
+		);
+}
+
+void flag_instr()
+{
+	//skip most instructions that can change flag register
+	//only test LAHF
+
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"flag_loop:\n\t"
+		"lahf\n\t"
+		"loop flag_loop\n\t"
+		);
+
+}
+
+//TODO: lea, nop, ud, xlat, cpuid, prefetch, clflush
+void miscella_instr()
+{
+	int i = 1;
+	int k = 0;
+	/*
+	__asm__ volatile (
+		"mov $10000000, %rcx\n\t"
+		"miscella_loop:\n\t"
+		"lea -8(%rbp), %rax\n\t"
+		"loop miscella_loop\n\t"
+		//"mov %rax, -8(%rbp)\n\t"
+		);
+	*/
+	/*
+	__asm__ volatile (
+		"mov $10000000, %rcx\n\t"
+		"miscella_loop:\n\t"
+		"nop\n\t"
+		"loop miscella_loop\n\t"
+		);
+	*/
+
+	//cannot use cpuid with loop, will overwrite rcx value
+
+	//clflush
+	/*
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"miscella_loop:\n\t"
+		"clflush -8(%rbp)\n\t"
+		"loop miscella_loop\n\t"
+		);
+	*/
+
+	//PREFETCHh to, t1, t2, nta
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"miscella_loop:\n\t"
+		"prefetchnta -8(%rbp)\n\t"
+		"loop miscella_loop\n\t"
+		);
+
+	//printf("%d\n", i);
+}
+//invd, wbinvd, invlpg, invpcid // those are all privileged instructions
+
+//todo test clflush with one element and with a array equal the size of cache line
+void test_clflush()
+{
+	//int i = 0;
+	int k[16] = {0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,}; // cache line is 64 bytes, each int is 4 bytes
+	__asm__ volatile(
+		"mov $10000000, %rcx\n\t"
+		"test_loop:\n\t"
+		"clflush -80(%rbp)\n\t"
+		"mov -80(%rbp), %rax\n\t"
+		"mov -76(%rbp), %rax\n\t"
+		"mov -72(%rbp), %rax\n\t"
+		"mov -68(%rbp), %rax\n\t"
+		"mov -64(%rbp), %rax\n\t"
+		"mov -60(%rbp), %rax\n\t"
+		"mov -56(%rbp), %rax\n\t"
+		"mov -52(%rbp), %rax\n\t"
+	/*
+	movl	$8, -48(%rbp)
+	movl	$9, -44(%rbp)
+	movl	$10, -40(%rbp)
+	movl	$11, -36(%rbp)
+	movl	$12, -32(%rbp)
+	movl	$13, -28(%rbp)
+	movl	$14, -24(%rbp)
+	movl	$15, -20(%rbp)
+	*/
+		"loop test_loop\n\t"
 		);
 }
