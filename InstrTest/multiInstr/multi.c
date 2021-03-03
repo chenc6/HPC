@@ -1,11 +1,13 @@
 #include <stdio.h>
 void foo();
-
+void fooeax();
 
 int main()
 {
 
-	foo();
+	//foo();
+	fooeax();
+	//printf("helloworld\n");
 	return 0;
 }
 
@@ -86,4 +88,28 @@ void foo()
 		//"loop test_loop\n\t"
 		);	
 	}
+}
+
+void fooeax()
+{
+	int i = 0;
+	__asm__ volatile(
+		"mov $0, %rdx\n\t"
+		"test_loop:\n\t"
+		//the time to use nop and other micro instructions are closed
+		"nop\n\t"
+		"nop \n\t"
+		//"add $0, %rax\n\t"
+		//"add $0, %rdi\n\t"
+		"nop\n\t"
+		"nop \n\t"
+		"nop \n\t"
+		"nop\n\t"
+
+		"inc %rdx\n\t"
+		"cmp $10000000, %rdx\n\t"
+		"jne test_loop\n\t"
+		);
+		//printf("%d\n", i);	
+	//}
 }
