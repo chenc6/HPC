@@ -11,13 +11,13 @@ void test_clflush();
 
 int main()
 {
-	//ctrl_flow_instr();
+	ctrl_flow_instr();
 	//binary_arith_instr();
 	//logic_instr();
 	//shift_instr();
 	//flag_instr();
 	//miscella_instr();
-	test_clflush();
+	//test_clflush();
 	return 0;
 }
 
