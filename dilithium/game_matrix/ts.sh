@@ -20,4 +20,4 @@ do
 	
 done
 	
-cp ts_result.txt game_matrix/0222
+cp ts_result.txt game_matrix/0304

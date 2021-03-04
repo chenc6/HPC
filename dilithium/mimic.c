@@ -20,6 +20,8 @@ void fct_678();
 void fct_91011();
 void fct_121314();
 
+void fct_all(); // mimic events as many as possible
+
 int main(){
 	//fct_0123();
 	//fct_4567();
@@ -30,7 +32,9 @@ int main(){
 	//fct_345();
 	//fct_678();
 	//fct_91011();
-	fct_121314();
+	//fct_121314();
+	
+	
 	return 0;
 }
 
@@ -167,21 +171,41 @@ void fct_12131415(){
 
 void fct_012(){
 //first handle branch-misses
+	/*
 	__asm__ volatile(
-		"mov $87500, %rcx\n\t"
-		"branch_loop2:\n\t"
-			"rand_loop2:\n\t"
-			"rdrand %rbx\n\t"
-			"addq $0, %rbx\n\t"
-			"js rand_loop2\n\t"
-		"loop branch_loop2\n\t"
-		);
+		// "mov $87500, %rcx\n\t"
+		// "branch_loop2:\n\t"
+		// 	"rand_loop2:\n\t"
+		// 	"rdrand %rbx\n\t"
+		// 	"addq $0, %rbx\n\t"
+		// 	"js rand_loop2\n\t"
+		// "loop branch_loop2\n\t"
 
+		// "mov $0, %rdx\n\t"
+		// "test_loop:\n\t"
+		// 	"rand_loop2:\n\t"
+		// 	"rdrand %rbx\n\t"
+		// 	"addq $0, %rbx\n\t"
+		// 	"js rand_loop2\n\t"
+		// "inc %rdx\n\t"
+		// "cmp $87500, %rdx\n\t"
+		// "jne test_loop\n\t"
+		);
+	*/
 	//then branches
+	// __asm__ volatile(
+	// 	"mov $139492675, %rcx\n\t"
+	// 	"branch_loop3:\n\t"
+	// 	"loop branch_loop3\n\t"
+	// 	);
+
 	__asm__ volatile(
-		"mov $139492675, %rcx\n\t"
-		"branch_loop3:\n\t"
-		"loop branch_loop3\n\t"
+		"mov $0, %rdx\n\t"
+		"test_loop1:\n\t"
+
+		"inc %rdx\n\t"
+		"cmp $139778835, %rdx\n\t"
+		"jne test_loop1\n\t"
 		);
 
 	//bus-cycles exceeds		
