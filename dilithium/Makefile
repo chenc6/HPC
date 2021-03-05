@@ -13,7 +13,10 @@ PQCgenKAT_sign: PQCgenKAT_sign.c rng.c $(SOURCES) rng.h $(HEADERS) mimic.c
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto    #-pg modified by chen to add a gprof command
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -S -lcrypto # modified by chen, will generate a .S file
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -fprofile-arcs -ftest-coverage -lcrypto # apply gcov 
-	$(CC) $(NISTFLAGS) mimic.c -o mimic.o -lcrypto
+	#$(CC) $(NISTFLAGS) mimic.c -o mimic.o -lcrypto
+	#$(CC) $(NISTFLAGS) mimic.c -S -lcrypto
+	gcc mimic.c -o mimic.o
+	gcc mimic.c -S
 
 test/test_vectors: test/test_vectors.c rng.c $(SOURCES) rng.h $(HEADERS)
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto
@@ -36,5 +39,5 @@ clean:
 	rm -f test/test_vectors
 	rm -f test/test_dilithium
 	rm -f test/test_mul
-	rm mimic.o
+	rm mimic.o, mimic.s
 	rm -f *.out, prof_out, *.prof, *.png
