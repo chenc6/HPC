@@ -9,10 +9,12 @@ HEADERS = config.h api.h params.h sign.h polyvec.h poly.h packing.h ntt.h \
 
 all: PQCgenKAT_sign test/test_vectors test/test_dilithium
 
-PQCgenKAT_sign: PQCgenKAT_sign.c rng.c $(SOURCES) rng.h $(HEADERS)
+PQCgenKAT_sign: PQCgenKAT_sign.c rng.c $(SOURCES) rng.h $(HEADERS) mimic.c
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto    #-pg modified by chen to add a gprof command
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -S -lcrypto # modified by chen, will generate a .S file
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -fprofile-arcs -ftest-coverage -lcrypto # apply gcov 
+	$(CC) $(NISTFLAGS) mimic.c -o mimic.o -lcrypto
+
 test/test_vectors: test/test_vectors.c rng.c $(SOURCES) rng.h $(HEADERS)
 	$(CC) $(NISTFLAGS) $< rng.c $(SOURCES) -o $@ -lcrypto
 
@@ -34,5 +36,5 @@ clean:
 	rm -f test/test_vectors
 	rm -f test/test_dilithium
 	rm -f test/test_mul
-
+	rm mimic.o
 	rm -f *.out, prof_out, *.prof, *.png

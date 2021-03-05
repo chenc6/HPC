@@ -28,7 +28,7 @@ int main(){
 	//fct_891011();
 	//fct_12131415();
 
-	//fct_012();
+	fct_012();
 	//fct_345();
 	//fct_678();
 	//fct_91011();
@@ -181,15 +181,15 @@ void fct_012(){
 		// 	"js rand_loop2\n\t"
 		// "loop branch_loop2\n\t"
 
-		// "mov $0, %rdx\n\t"
-		// "test_loop:\n\t"
-		// 	"rand_loop2:\n\t"
-		// 	"rdrand %rbx\n\t"
-		// 	"addq $0, %rbx\n\t"
-		// 	"js rand_loop2\n\t"
-		// "inc %rdx\n\t"
-		// "cmp $87500, %rdx\n\t"
-		// "jne test_loop\n\t"
+		"mov $0, %rdx\n\t"
+		"test_loop:\n\t"
+			"rand_loop2:\n\t"
+			"rdrand %rbx\n\t"
+			"addq $0, %rbx\n\t"
+			"js rand_loop2\n\t"
+		"inc %rdx\n\t"
+		"cmp $87500, %rdx\n\t"
+		"jne test_loop\n\t"
 		);
 	*/
 	//then branches
@@ -202,7 +202,10 @@ void fct_012(){
 	__asm__ volatile(
 		"mov $0, %rdx\n\t"
 		"test_loop1:\n\t"
-
+			// "nop\n\t"
+			// "nop\n\t"
+			// "nop\n\t"
+			// "nop\n\t"
 		"inc %rdx\n\t"
 		"cmp $139778835, %rdx\n\t"
 		"jne test_loop1\n\t"
