@@ -1,0 +1,3300 @@
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+            17,135      branch-misses:u           #    2.72% of all branches        
+            33,177      cache-misses:u                                              
+
+       0.016893556 seconds time elapsed
+
+       0.000000000 seconds user
+       0.010064000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,284      branches:u                                                  
+            16,925      branch-misses:u           #    2.69% of all branches        
+           389,789      cache-references:u                                          
+
+       0.014868215 seconds time elapsed
+
+       0.005638000 seconds user
+       0.002518000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,310      branches:u                                                  
+            16,761      branch-misses:u           #    2.66% of all branches        
+         2,918,343      instructions:u                                              
+
+       0.015255486 seconds time elapsed
+
+       0.002466000 seconds user
+       0.005725000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+            17,660      branch-misses:u           #    2.81% of all branches        
+            86,153      L1-dcache-load-misses                                       
+
+       0.017358625 seconds time elapsed
+
+       0.000571000 seconds user
+       0.007728000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+            17,545      branch-misses:u           #    2.79% of all branches        
+           650,289      L1-dcache-loads                                             
+
+       0.015761930 seconds time elapsed
+
+       0.003206000 seconds user
+       0.005292000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+            19,891      branch-misses:u           #    3.16% of all branches        
+           363,257      L1-dcache-stores                                            
+
+       0.017610576 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008294000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+            16,455      branch-misses:u           #    2.61% of all branches        
+           629,278      branch-loads                                                
+
+       0.004244846 seconds time elapsed
+
+       0.000495000 seconds user
+       0.003627000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+            17,078      branch-misses:u           #    2.71% of all branches        
+             7,353      dTLB-load-misses                                            
+
+       0.016034750 seconds time elapsed
+
+       0.004710000 seconds user
+       0.004115000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+            19,656      branch-misses:u           #    3.12% of all branches        
+           650,262      dTLB-loads                                                  
+
+       0.016770981 seconds time elapsed
+
+       0.000533000 seconds user
+       0.007971000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,313      branches:u                                                  
+            16,678      branch-misses:u           #    2.65% of all branches        
+           363,257      dTLB-stores                                                 
+
+       0.015841633 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008683000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branches:u                                                  
+            10,077      cache-misses:u            #    2.542 % of all cache refs    
+           396,456      cache-references:u                                          
+
+       0.015614224 seconds time elapsed
+
+       0.003099000 seconds user
+       0.005031000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+             9,552      cache-misses:u                                              
+         2,918,253      instructions:u                                              
+
+       0.015333557 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008316000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,311      branches:u                                                  
+             9,931      cache-misses:u                                              
+            71,128      L1-dcache-load-misses                                       
+
+       0.012756875 seconds time elapsed
+
+       0.000572000 seconds user
+       0.006679000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,281      branches:u                                                  
+            24,980      cache-misses:u                                              
+           650,332      L1-dcache-loads                                             
+
+       0.016463460 seconds time elapsed
+
+       0.008560000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,272      branches:u                                                  
+            11,131      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.015133953 seconds time elapsed
+
+       0.000578000 seconds user
+       0.007732000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+             9,869      cache-misses:u                                              
+           629,280      branch-loads                                                
+
+       0.015464809 seconds time elapsed
+
+       0.004372000 seconds user
+       0.003789000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+            10,448      cache-misses:u                                              
+             7,295      dTLB-load-misses                                            
+
+       0.014831833 seconds time elapsed
+
+       0.000590000 seconds user
+       0.007404000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+            13,387      cache-misses:u                                              
+           650,255      dTLB-loads                                                  
+
+       0.017038633 seconds time elapsed
+
+       0.003214000 seconds user
+       0.005238000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+            15,866      cache-misses:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.016394497 seconds time elapsed
+
+       0.008750000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+           389,253      cache-references:u                                          
+         2,918,253      instructions:u                                              
+
+       0.015334242 seconds time elapsed
+
+       0.000600000 seconds user
+       0.007751000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,311      branches:u                                                  
+            53,349      cache-references:u                                          
+            20,122      L1-dcache-load-misses                                       
+
+       0.004184287 seconds time elapsed
+
+       0.000570000 seconds user
+       0.003547000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+           387,448      cache-references:u                                          
+           650,300      L1-dcache-loads                                             
+
+       0.015579859 seconds time elapsed
+
+       0.000578000 seconds user
+       0.007975000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,312      branches:u                                                  
+           416,452      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+
+       0.016975285 seconds time elapsed
+
+       0.000522000 seconds user
+       0.008072000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,278      branches:u                                                  
+           413,297      cache-references:u                                          
+           629,278      branch-loads                                                
+
+       0.015796169 seconds time elapsed
+
+       0.008549000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,273      branches:u                                                  
+           386,386      cache-references:u                                          
+             7,348      dTLB-load-misses                                            
+
+       0.014680797 seconds time elapsed
+
+       0.007911000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+           302,711      cache-references:u                                          
+           650,339      dTLB-loads                                                  
+
+       0.011303502 seconds time elapsed
+
+       0.000527000 seconds user
+       0.006217000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+           407,761      cache-references:u                                          
+           363,257      dTLB-stores                                                 
+
+       0.015591654 seconds time elapsed
+
+       0.004469000 seconds user
+       0.003874000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+         2,918,250      instructions:u                                              
+            87,371      L1-dcache-load-misses                                       
+
+       0.020128802 seconds time elapsed
+
+       0.009936000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+         2,918,252      instructions:u                                              
+           650,341      L1-dcache-loads                                             
+
+       0.015447572 seconds time elapsed
+
+       0.003236000 seconds user
+       0.005289000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,282      branches:u                                                  
+         2,918,257      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.016820177 seconds time elapsed
+
+       0.008701000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+         2,918,254      instructions:u                                              
+           629,279      branch-loads                                                
+
+       0.015831008 seconds time elapsed
+
+       0.006693000 seconds user
+       0.002050000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+         2,918,256      instructions:u                                              
+             7,382      dTLB-load-misses                                            
+
+       0.017295344 seconds time elapsed
+
+       0.000514000 seconds user
+       0.008333000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branches:u                                                  
+         2,918,251      instructions:u                                              
+           650,258      dTLB-loads                                                  
+
+       0.016162646 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008707000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,281      branches:u                                                  
+         2,918,256      instructions:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.015246054 seconds time elapsed
+
+       0.004404000 seconds user
+       0.003812000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+            87,707      L1-dcache-load-misses     #   13.49% of all L1-dcache hits  
+           650,244      L1-dcache-loads                                             
+
+       0.015653006 seconds time elapsed
+
+       0.003962000 seconds user
+       0.004543000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+            84,365      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+
+       0.015825126 seconds time elapsed
+
+       0.000562000 seconds user
+       0.007894000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,281      branches:u                                                  
+            83,592      L1-dcache-load-misses                                       
+           629,281      branch-loads                                                
+
+       0.016509560 seconds time elapsed
+
+       0.003938000 seconds user
+       0.004527000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+            84,793      L1-dcache-load-misses                                       
+             7,303      dTLB-load-misses                                            
+
+       0.015481765 seconds time elapsed
+
+       0.003331000 seconds user
+       0.005535000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+            86,647      L1-dcache-load-misses                                       
+           650,286      dTLB-loads                                                  
+
+       0.016610891 seconds time elapsed
+
+       0.000561000 seconds user
+       0.007851000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,312      branches:u                                                  
+            86,347      L1-dcache-load-misses                                       
+           363,257      dTLB-stores                                                 
+
+       0.015745173 seconds time elapsed
+
+       0.000505000 seconds user
+       0.008015000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,283      branches:u                                                  
+           650,203      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.016728116 seconds time elapsed
+
+       0.000582000 seconds user
+       0.007896000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,272      branches:u                                                  
+           650,299      L1-dcache-loads                                             
+           629,272      branch-loads                                                
+
+       0.015585319 seconds time elapsed
+
+       0.002508000 seconds user
+       0.005967000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branches:u                                                  
+           650,324      L1-dcache-loads                                             
+             7,552      dTLB-load-misses                                            
+
+       0.015100480 seconds time elapsed
+
+       0.004404000 seconds user
+       0.003828000 seconds sys
+
+
+# started on Fri Mar  5 12:03:50 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+           650,333      L1-dcache-loads                                             
+           650,333      dTLB-loads                                                  
+
+       0.014961881 seconds time elapsed
+
+       0.000642000 seconds user
+       0.007568000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+           650,304      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.015019715 seconds time elapsed
+
+       0.000543000 seconds user
+       0.007635000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,280      branches:u                                                  
+           363,257      L1-dcache-stores                                            
+           629,280      branch-loads                                                
+
+       0.016482948 seconds time elapsed
+
+       0.003286000 seconds user
+       0.005473000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+           363,257      L1-dcache-stores                                            
+             7,376      dTLB-load-misses                                            
+
+       0.015678082 seconds time elapsed
+
+       0.000590000 seconds user
+       0.008017000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,309      branches:u                                                  
+           363,257      L1-dcache-stores                                            
+           650,271      dTLB-loads                                                  
+
+       0.016402131 seconds time elapsed
+
+       0.000644000 seconds user
+       0.007734000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.015943566 seconds time elapsed
+
+       0.003334000 seconds user
+       0.005369000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,279      branches:u                                                  
+           629,279      branch-loads                                                
+             7,338      dTLB-load-misses                                            
+
+       0.016404786 seconds time elapsed
+
+       0.000717000 seconds user
+       0.007714000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branches:u                                                  
+           629,276      branch-loads                                                
+           650,310      dTLB-loads                                                  
+
+       0.015721726 seconds time elapsed
+
+       0.004613000 seconds user
+       0.003907000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+           629,277      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.015091075 seconds time elapsed
+
+       0.000575000 seconds user
+       0.007616000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,275      branches:u                                                  
+             7,756      dTLB-load-misses          #    1.19% of all dTLB cache hits 
+           649,914      dTLB-loads                                                  
+
+       0.015936789 seconds time elapsed
+
+       0.000684000 seconds user
+       0.008055000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branches:u                                                  
+             7,394      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.015160633 seconds time elapsed
+
+       0.000620000 seconds user
+       0.007671000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branches:u                                                  
+           650,310      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.004749901 seconds time elapsed
+
+       0.004086000 seconds user
+       0.000566000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,153      branch-misses:u                                             
+            18,654      cache-misses:u            #    4.706 % of all cache refs    
+           396,379      cache-references:u                                          
+
+       0.016092841 seconds time elapsed
+
+       0.000547000 seconds user
+       0.008108000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,870      branch-misses:u                                             
+            13,094      cache-misses:u                                              
+         2,918,347      instructions:u                                              
+
+       0.015084691 seconds time elapsed
+
+       0.000684000 seconds user
+       0.007277000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,213      branch-misses:u                                             
+            17,398      cache-misses:u                                              
+            88,009      L1-dcache-load-misses                                       
+
+       0.016628061 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008769000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,410      branch-misses:u                                             
+            12,704      cache-misses:u                                              
+           649,919      L1-dcache-loads                                             
+
+       0.015370502 seconds time elapsed
+
+       0.003090000 seconds user
+       0.005140000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            20,431      branch-misses:u                                             
+            21,831      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.019248138 seconds time elapsed
+
+       0.000710000 seconds user
+       0.008486000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,455      branch-misses:u                                             
+            35,241      cache-misses:u                                              
+           629,280      branch-loads                                                
+
+       0.017087799 seconds time elapsed
+
+       0.003585000 seconds user
+       0.006274000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,989      branch-misses:u                                             
+            20,006      cache-misses:u                                              
+             7,357      dTLB-load-misses                                            
+
+       0.017173773 seconds time elapsed
+
+       0.004128000 seconds user
+       0.004740000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,785      branch-misses:u                                             
+            10,284      cache-misses:u                                              
+           650,318      dTLB-loads                                                  
+
+       0.014954194 seconds time elapsed
+
+       0.000533000 seconds user
+       0.007674000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,526      branch-misses:u                                             
+            17,490      cache-misses:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.018352536 seconds time elapsed
+
+       0.000513000 seconds user
+       0.008136000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,134      branch-misses:u                                             
+            70,636      cache-references:u                                          
+         2,918,253      instructions:u                                              
+
+       0.004753607 seconds time elapsed
+
+       0.000630000 seconds user
+       0.003992000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,530      branch-misses:u                                             
+            62,472      cache-references:u                                          
+            26,985      L1-dcache-load-misses                                       
+
+       0.004794233 seconds time elapsed
+
+       0.000657000 seconds user
+       0.003919000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,361      branch-misses:u                                             
+            56,177      cache-references:u                                          
+           650,315      L1-dcache-loads                                             
+
+       0.004313917 seconds time elapsed
+
+       0.003582000 seconds user
+       0.000606000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,727      branch-misses:u                                             
+           418,855      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+
+       0.016293365 seconds time elapsed
+
+       0.008533000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,186      branch-misses:u                                             
+           423,905      cache-references:u                                          
+           629,277      branch-loads                                                
+
+       0.015970167 seconds time elapsed
+
+       0.003259000 seconds user
+       0.005355000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,525      branch-misses:u                                             
+            65,356      cache-references:u                                          
+             1,011      dTLB-load-misses                                            
+
+       0.005154806 seconds time elapsed
+
+       0.004522000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,105      branch-misses:u                                             
+           397,327      cache-references:u                                          
+           650,216      dTLB-loads                                                  
+
+       0.015708833 seconds time elapsed
+
+       0.000492000 seconds user
+       0.007798000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,823      branch-misses:u                                             
+           411,496      cache-references:u                                          
+           363,257      dTLB-stores                                                 
+
+       0.015968473 seconds time elapsed
+
+       0.004488000 seconds user
+       0.003916000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,690      branch-misses:u                                             
+         2,918,254      instructions:u                                              
+            89,369      L1-dcache-load-misses                                       
+
+       0.017222177 seconds time elapsed
+
+       0.005111000 seconds user
+       0.004504000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,288      branch-misses:u                                             
+         2,918,350      instructions:u                                              
+           650,259      L1-dcache-loads                                             
+
+       0.015486576 seconds time elapsed
+
+       0.000555000 seconds user
+       0.007714000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,210      branch-misses:u                                             
+         2,918,259      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.019263940 seconds time elapsed
+
+       0.000587000 seconds user
+       0.008515000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,190      branch-misses:u                                             
+         2,918,251      instructions:u                                              
+           629,276      branch-loads                                                
+
+       0.017953745 seconds time elapsed
+
+       0.000000000 seconds user
+       0.009546000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,311      branch-misses:u                                             
+         2,918,345      instructions:u                                              
+               929      dTLB-load-misses                                            
+
+       0.004304155 seconds time elapsed
+
+       0.004266000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            24,250      branch-misses:u                                             
+         2,918,253      instructions:u                                              
+           650,155      dTLB-loads                                                  
+
+       0.022110686 seconds time elapsed
+
+       0.003601000 seconds user
+       0.005995000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,470      branch-misses:u                                             
+         2,918,256      instructions:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.017712640 seconds time elapsed
+
+       0.000685000 seconds user
+       0.008602000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,018      branch-misses:u                                             
+            24,364      L1-dcache-load-misses     #    3.75% of all L1-dcache hits  
+           650,071      L1-dcache-loads                                             
+
+       0.006196699 seconds time elapsed
+
+       0.000788000 seconds user
+       0.004605000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,929      branch-misses:u                                             
+            92,662      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+
+       0.016154398 seconds time elapsed
+
+       0.000688000 seconds user
+       0.007869000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,332      branch-misses:u                                             
+            86,150      L1-dcache-load-misses                                       
+           629,274      branch-loads                                                
+
+       0.015925707 seconds time elapsed
+
+       0.000542000 seconds user
+       0.007829000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,980      branch-misses:u                                             
+            90,038      L1-dcache-load-misses                                       
+             7,423      dTLB-load-misses                                            
+
+       0.019000426 seconds time elapsed
+
+       0.000549000 seconds user
+       0.008717000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,319      branch-misses:u                                             
+            25,546      L1-dcache-load-misses                                       
+           650,338      dTLB-loads                                                  
+
+       0.004974575 seconds time elapsed
+
+       0.000611000 seconds user
+       0.004283000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,181      branch-misses:u                                             
+            22,929      L1-dcache-load-misses                                       
+           363,257      dTLB-stores                                                 
+
+       0.004167376 seconds time elapsed
+
+       0.000592000 seconds user
+       0.003535000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,255      branch-misses:u                                             
+           650,175      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.016888285 seconds time elapsed
+
+       0.000945000 seconds user
+       0.008088000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            20,042      branch-misses:u                                             
+           650,277      L1-dcache-loads                                             
+           629,277      branch-loads                                                
+
+       0.016209371 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008460000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,766      branch-misses:u                                             
+           650,245      L1-dcache-loads                                             
+             7,362      dTLB-load-misses                                            
+
+       0.015925504 seconds time elapsed
+
+       0.000582000 seconds user
+       0.008078000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,643      branch-misses:u                                             
+           650,335      L1-dcache-loads                                             
+           650,335      dTLB-loads                                                  
+
+       0.012020906 seconds time elapsed
+
+       0.000523000 seconds user
+       0.006395000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,186      branch-misses:u                                             
+           650,330      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.004138945 seconds time elapsed
+
+       0.004032000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,138      branch-misses:u                                             
+           363,257      L1-dcache-stores                                            
+           629,274      branch-loads                                                
+
+       0.004066217 seconds time elapsed
+
+       0.000588000 seconds user
+       0.003475000 seconds sys
+
+
+# started on Fri Mar  5 12:03:51 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,280      branch-misses:u                                             
+           363,257      L1-dcache-stores                                            
+             1,012      dTLB-load-misses                                            
+
+       0.004216840 seconds time elapsed
+
+       0.000589000 seconds user
+       0.003551000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,669      branch-misses:u                                             
+           363,257      L1-dcache-stores                                            
+           650,330      dTLB-loads                                                  
+
+       0.004079499 seconds time elapsed
+
+       0.000529000 seconds user
+       0.003503000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,270      branch-misses:u                                             
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.004417189 seconds time elapsed
+
+       0.000578000 seconds user
+       0.003698000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,191      branch-misses:u                                             
+           629,276      branch-loads                                                
+             7,338      dTLB-load-misses                                            
+
+       0.016381673 seconds time elapsed
+
+       0.000592000 seconds user
+       0.008161000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,145      branch-misses:u                                             
+           629,284      branch-loads                                                
+           650,319      dTLB-loads                                                  
+
+       0.015539153 seconds time elapsed
+
+       0.007550000 seconds user
+       0.000550000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,531      branch-misses:u                                             
+           629,276      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.004996897 seconds time elapsed
+
+       0.000593000 seconds user
+       0.003840000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,224      branch-misses:u                                             
+               923      dTLB-load-misses          #    0.14% of all dTLB cache hits 
+           650,343      dTLB-loads                                                  
+
+       0.004241971 seconds time elapsed
+
+       0.000565000 seconds user
+       0.003470000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,077      branch-misses:u                                             
+               927      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.004162075 seconds time elapsed
+
+       0.000576000 seconds user
+       0.003513000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            16,310      branch-misses:u                                             
+           650,331      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.004217753 seconds time elapsed
+
+       0.003533000 seconds user
+       0.000625000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            12,908      cache-misses:u            #    3.202 % of all cache refs    
+           403,095      cache-references:u                                          
+         2,918,253      instructions:u                                              
+
+       0.015191095 seconds time elapsed
+
+       0.000596000 seconds user
+       0.007643000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,041      cache-misses:u            #    3.036 % of all cache refs    
+           363,695      cache-references:u                                          
+            86,865      L1-dcache-load-misses                                       
+
+       0.014642619 seconds time elapsed
+
+       0.000000000 seconds user
+       0.007951000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            15,720      cache-misses:u            #    3.464 % of all cache refs    
+           453,834      cache-references:u                                          
+           650,280      L1-dcache-loads                                             
+
+       0.017096673 seconds time elapsed
+
+       0.004581000 seconds user
+       0.004056000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,725      cache-misses:u            #   20.322 % of all cache refs    
+            57,696      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+
+       0.004155673 seconds time elapsed
+
+       0.003579000 seconds user
+       0.000547000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,800      cache-misses:u            #   17.371 % of all cache refs    
+            67,930      cache-references:u                                          
+           629,277      branch-loads                                                
+
+       0.004438884 seconds time elapsed
+
+       0.000536000 seconds user
+       0.003884000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,316      cache-misses:u            #    6.419 % of all cache refs    
+           176,287      cache-references:u                                          
+             1,855      dTLB-load-misses                                            
+
+       0.006516270 seconds time elapsed
+
+       0.000595000 seconds user
+       0.005831000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            10,435      cache-misses:u            #    2.613 % of all cache refs    
+           399,378      cache-references:u                                          
+           650,304      dTLB-loads                                                  
+
+       0.014807873 seconds time elapsed
+
+       0.003107000 seconds user
+       0.005040000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+             9,428      cache-misses:u            #    2.326 % of all cache refs    
+           405,272      cache-references:u                                          
+           363,257      dTLB-stores                                                 
+
+       0.014895297 seconds time elapsed
+
+       0.007342000 seconds user
+       0.000617000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,790      cache-misses:u                                              
+         2,918,344      instructions:u                                              
+            46,113      L1-dcache-load-misses                                       
+
+       0.009803961 seconds time elapsed
+
+       0.005889000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            15,726      cache-misses:u                                              
+         2,918,347      instructions:u                                              
+           649,960      L1-dcache-loads                                             
+
+       0.008597998 seconds time elapsed
+
+       0.000630000 seconds user
+       0.005336000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            14,179      cache-misses:u                                              
+         2,918,249      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.016159259 seconds time elapsed
+
+       0.000545000 seconds user
+       0.008372000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            15,572      cache-misses:u                                              
+         2,918,256      instructions:u                                              
+           629,277      branch-loads                                                
+
+       0.018150874 seconds time elapsed
+
+       0.000531000 seconds user
+       0.008104000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            15,440      cache-misses:u                                              
+         2,918,258      instructions:u                                              
+             7,713      dTLB-load-misses                                            
+
+       0.015623514 seconds time elapsed
+
+       0.002742000 seconds user
+       0.006047000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            13,305      cache-misses:u                                              
+         2,918,248      instructions:u                                              
+           650,031      dTLB-loads                                                  
+
+       0.006660593 seconds time elapsed
+
+       0.004719000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            10,082      cache-misses:u                                              
+         2,918,260      instructions:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.004900808 seconds time elapsed
+
+       0.000567000 seconds user
+       0.004253000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,254      cache-misses:u                                              
+            89,621      L1-dcache-load-misses     #   13.78% of all L1-dcache hits  
+           650,289      L1-dcache-loads                                             
+
+       0.015923011 seconds time elapsed
+
+       0.000561000 seconds user
+       0.008114000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            14,477      cache-misses:u                                              
+            88,313      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+
+       0.015995396 seconds time elapsed
+
+       0.002564000 seconds user
+       0.006058000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            15,865      cache-misses:u                                              
+            87,332      L1-dcache-load-misses                                       
+           629,281      branch-loads                                                
+
+       0.016627132 seconds time elapsed
+
+       0.008842000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            11,638      cache-misses:u                                              
+            85,593      L1-dcache-load-misses                                       
+             7,320      dTLB-load-misses                                            
+
+       0.015936296 seconds time elapsed
+
+       0.000574000 seconds user
+       0.007594000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,158      cache-misses:u                                              
+            73,419      L1-dcache-load-misses                                       
+           649,458      dTLB-loads                                                  
+
+       0.014717999 seconds time elapsed
+
+       0.000528000 seconds user
+       0.008278000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            10,689      cache-misses:u                                              
+            84,758      L1-dcache-load-misses                                       
+           363,257      dTLB-stores                                                 
+
+       0.015023380 seconds time elapsed
+
+       0.000568000 seconds user
+       0.007560000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            10,871      cache-misses:u                                              
+           650,320      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.014835899 seconds time elapsed
+
+       0.000584000 seconds user
+       0.007361000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+             9,715      cache-misses:u                                              
+           650,307      L1-dcache-loads                                             
+           629,273      branch-loads                                                
+
+       0.014974523 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008143000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            18,986      cache-misses:u                                              
+           650,154      L1-dcache-loads                                             
+             7,296      dTLB-load-misses                                            
+
+       0.018783299 seconds time elapsed
+
+       0.000605000 seconds user
+       0.008141000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            14,736      cache-misses:u                                              
+           648,090      L1-dcache-loads                                             
+           648,090      dTLB-loads                                                  
+
+       0.005011844 seconds time elapsed
+
+       0.000570000 seconds user
+       0.004515000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            21,076      cache-misses:u                                              
+           650,142      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.017623079 seconds time elapsed
+
+       0.000547000 seconds user
+       0.008594000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            13,109      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+           629,312      branch-loads                                                
+
+       0.015914674 seconds time elapsed
+
+       0.000531000 seconds user
+       0.007918000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            31,329      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+             1,000      dTLB-load-misses                                            
+
+       0.005786560 seconds time elapsed
+
+       0.005417000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,096      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+           650,265      dTLB-loads                                                  
+
+       0.018250133 seconds time elapsed
+
+       0.008513000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            17,718      cache-misses:u                                              
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.005874473 seconds time elapsed
+
+       0.000568000 seconds user
+       0.005179000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            22,869      cache-misses:u                                              
+           629,280      branch-loads                                                
+             7,389      dTLB-load-misses                                            
+
+       0.016943971 seconds time elapsed
+
+       0.000657000 seconds user
+       0.008437000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,790      cache-misses:u                                              
+           629,276      branch-loads                                                
+           650,242      dTLB-loads                                                  
+
+       0.017102015 seconds time elapsed
+
+       0.000577000 seconds user
+       0.008427000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+             9,735      cache-misses:u                                              
+           629,279      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.004258851 seconds time elapsed
+
+       0.000546000 seconds user
+       0.003662000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            34,165      cache-misses:u                                              
+             7,418      dTLB-load-misses          #    1.14% of all dTLB cache hits 
+           650,259      dTLB-loads                                                  
+
+       0.018835614 seconds time elapsed
+
+       0.001174000 seconds user
+       0.008071000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            19,121      cache-misses:u                                              
+             7,418      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.016351172 seconds time elapsed
+
+       0.000590000 seconds user
+       0.008248000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            10,343      cache-misses:u                                              
+           650,279      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.015310315 seconds time elapsed
+
+       0.008096000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           444,184      cache-references:u                                          
+         2,918,256      instructions:u                                              
+            86,782      L1-dcache-load-misses                                       
+
+       0.015508187 seconds time elapsed
+
+       0.000562000 seconds user
+       0.007921000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           313,049      cache-references:u                                          
+         2,918,253      instructions:u                                              
+           650,340      L1-dcache-loads                                             
+
+       0.014228990 seconds time elapsed
+
+       0.000513000 seconds user
+       0.006931000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           402,171      cache-references:u                                          
+         2,918,348      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+
+       0.015524064 seconds time elapsed
+
+       0.000536000 seconds user
+       0.007833000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           417,980      cache-references:u                                          
+         2,918,261      instructions:u                                              
+           629,282      branch-loads                                                
+
+       0.016797385 seconds time elapsed
+
+       0.000825000 seconds user
+       0.008495000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           412,779      cache-references:u                                          
+         2,918,260      instructions:u                                              
+             7,336      dTLB-load-misses                                            
+
+       0.016940494 seconds time elapsed
+
+       0.008513000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           436,764      cache-references:u                                          
+         2,918,255      instructions:u                                              
+           650,323      dTLB-loads                                                  
+
+       0.016287547 seconds time elapsed
+
+       0.000579000 seconds user
+       0.008205000 seconds sys
+
+
+# started on Fri Mar  5 12:03:52 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           481,606      cache-references:u                                          
+         2,918,262      instructions:u                                              
+           363,257      dTLB-stores                                                 
+
+       0.023222127 seconds time elapsed
+
+       0.009910000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           453,983      cache-references:u                                          
+            88,758      L1-dcache-load-misses     #   13.65% of all L1-dcache hits  
+           650,117      L1-dcache-loads                                             
+
+       0.020658419 seconds time elapsed
+
+       0.000000000 seconds user
+       0.009317000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            54,963      cache-references:u                                          
+            22,870      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+
+       0.004275699 seconds time elapsed
+
+       0.004176000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           476,336      cache-references:u                                          
+            91,726      L1-dcache-load-misses                                       
+           629,279      branch-loads                                                
+
+       0.019603744 seconds time elapsed
+
+       0.000570000 seconds user
+       0.009007000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           371,428      cache-references:u                                          
+            78,365      L1-dcache-load-misses                                       
+             6,436      dTLB-load-misses                                            
+
+       0.016971589 seconds time elapsed
+
+       0.000579000 seconds user
+       0.007501000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           435,236      cache-references:u                                          
+            90,379      L1-dcache-load-misses                                       
+           649,975      dTLB-loads                                                  
+
+       0.018574531 seconds time elapsed
+
+       0.001451000 seconds user
+       0.009007000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           426,812      cache-references:u                                          
+            88,809      L1-dcache-load-misses                                       
+           363,257      dTLB-stores                                                 
+
+       0.018228564 seconds time elapsed
+
+       0.003736000 seconds user
+       0.006123000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            58,657      cache-references:u                                          
+           650,343      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.004724531 seconds time elapsed
+
+       0.003839000 seconds user
+       0.000649000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            82,765      cache-references:u                                          
+           650,110      L1-dcache-loads                                             
+           629,277      branch-loads                                                
+
+       0.007628712 seconds time elapsed
+
+       0.000570000 seconds user
+       0.005105000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           408,811      cache-references:u                                          
+           650,268      L1-dcache-loads                                             
+             7,316      dTLB-load-misses                                            
+
+       0.015487321 seconds time elapsed
+
+       0.000579000 seconds user
+       0.007782000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           449,562      cache-references:u                                          
+           649,932      L1-dcache-loads                                             
+           649,932      dTLB-loads                                                  
+
+       0.018099402 seconds time elapsed
+
+       0.004909000 seconds user
+       0.004352000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           411,979      cache-references:u                                          
+           650,232      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.016154800 seconds time elapsed
+
+       0.000578000 seconds user
+       0.008410000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           395,871      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+           629,276      branch-loads                                                
+
+       0.014853313 seconds time elapsed
+
+       0.008062000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           396,518      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+             7,393      dTLB-load-misses                                            
+
+       0.015280450 seconds time elapsed
+
+       0.000622000 seconds user
+       0.007858000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           396,039      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+           650,072      dTLB-loads                                                  
+
+       0.015222815 seconds time elapsed
+
+       0.000543000 seconds user
+       0.007665000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           407,238      cache-references:u                                          
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.015979041 seconds time elapsed
+
+       0.000577000 seconds user
+       0.007679000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           383,115      cache-references:u                                          
+           629,282      branch-loads                                                
+             7,354      dTLB-load-misses                                            
+
+       0.014768934 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008029000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           419,941      cache-references:u                                          
+           629,281      branch-loads                                                
+           650,324      dTLB-loads                                                  
+
+       0.016049048 seconds time elapsed
+
+       0.004435000 seconds user
+       0.003791000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           416,493      cache-references:u                                          
+           629,278      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.015466705 seconds time elapsed
+
+       0.000589000 seconds user
+       0.007690000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           411,370      cache-references:u                                          
+             7,310      dTLB-load-misses          #    1.12% of all dTLB cache hits 
+           650,125      dTLB-loads                                                  
+
+       0.016317940 seconds time elapsed
+
+       0.004363000 seconds user
+       0.005317000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           394,575      cache-references:u                                          
+             7,414      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.016412372 seconds time elapsed
+
+       0.004459000 seconds user
+       0.003829000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           419,726      cache-references:u                                          
+           648,600      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.016371843 seconds time elapsed
+
+       0.000526000 seconds user
+       0.008474000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,256      instructions:u                                              
+            89,854      L1-dcache-load-misses     #   13.82% of all L1-dcache hits  
+           650,224      L1-dcache-loads                                             
+
+       0.018580564 seconds time elapsed
+
+       0.000590000 seconds user
+       0.008236000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,250      instructions:u                                              
+            84,634      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+
+       0.016134300 seconds time elapsed
+
+       0.000550000 seconds user
+       0.008308000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,252      instructions:u                                              
+            90,552      L1-dcache-load-misses                                       
+           629,277      branch-loads                                                
+
+       0.017099597 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008449000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,255      instructions:u                                              
+            88,845      L1-dcache-load-misses                                       
+             7,404      dTLB-load-misses                                            
+
+       0.016882909 seconds time elapsed
+
+       0.000599000 seconds user
+       0.008675000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,343      instructions:u                                              
+            89,123      L1-dcache-load-misses                                       
+           650,356      dTLB-loads                                                  
+
+       0.016475824 seconds time elapsed
+
+       0.004483000 seconds user
+       0.003866000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,253      instructions:u                                              
+            88,845      L1-dcache-load-misses                                       
+           363,257      dTLB-stores                                                 
+
+       0.016404960 seconds time elapsed
+
+       0.000541000 seconds user
+       0.008518000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,347      instructions:u                                              
+           650,281      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.016743125 seconds time elapsed
+
+       0.002638000 seconds user
+       0.006275000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,256      instructions:u                                              
+           650,055      L1-dcache-loads                                             
+           629,281      branch-loads                                                
+
+       0.005468469 seconds time elapsed
+
+       0.000527000 seconds user
+       0.004768000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,254      instructions:u                                              
+           650,342      L1-dcache-loads                                             
+               888      dTLB-load-misses                                            
+
+       0.004231183 seconds time elapsed
+
+       0.003541000 seconds user
+       0.000635000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,345      instructions:u                                              
+           650,332      L1-dcache-loads                                             
+           650,332      dTLB-loads                                                  
+
+       0.004292720 seconds time elapsed
+
+       0.000572000 seconds user
+       0.003632000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,255      instructions:u                                              
+           650,336      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.010128553 seconds time elapsed
+
+       0.000575000 seconds user
+       0.005440000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,264      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+           629,285      branch-loads                                                
+
+       0.016966851 seconds time elapsed
+
+       0.009059000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,251      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+             1,012      dTLB-load-misses                                            
+
+       0.004124761 seconds time elapsed
+
+       0.004121000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,343      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+           650,361      dTLB-loads                                                  
+
+       0.015707292 seconds time elapsed
+
+       0.000481000 seconds user
+       0.007657000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,255      instructions:u                                              
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.015120036 seconds time elapsed
+
+       0.000580000 seconds user
+       0.007612000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,253      instructions:u                                              
+           629,278      branch-loads                                                
+             7,312      dTLB-load-misses                                            
+
+       0.016807177 seconds time elapsed
+
+       0.000576000 seconds user
+       0.007799000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,254      instructions:u                                              
+           629,279      branch-loads                                                
+           650,338      dTLB-loads                                                  
+
+       0.004746685 seconds time elapsed
+
+       0.000545000 seconds user
+       0.003791000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,348      instructions:u                                              
+           629,315      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.004118036 seconds time elapsed
+
+       0.000516000 seconds user
+       0.003564000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,254      instructions:u                                              
+             1,001      dTLB-load-misses          #    0.15% of all dTLB cache hits 
+           648,763      dTLB-loads                                                  
+
+       0.004876338 seconds time elapsed
+
+       0.000529000 seconds user
+       0.004280000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,250      instructions:u                                              
+               934      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.004137454 seconds time elapsed
+
+       0.003542000 seconds user
+       0.000559000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+         2,918,258      instructions:u                                              
+           650,328      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.004280611 seconds time elapsed
+
+       0.004251000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            28,287      L1-dcache-load-misses     #    4.36% of all L1-dcache hits  
+           649,331      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+
+       0.004678760 seconds time elapsed
+
+       0.000531000 seconds user
+       0.004116000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            48,541      L1-dcache-load-misses     #    7.50% of all L1-dcache hits  
+           647,091      L1-dcache-loads                                             
+           629,313      branch-loads                                                
+
+       0.006398451 seconds time elapsed
+
+       0.000556000 seconds user
+       0.005736000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            23,884      L1-dcache-load-misses     #    3.67% of all L1-dcache hits  
+           650,324      L1-dcache-loads                                             
+             1,007      dTLB-load-misses                                            
+
+       0.004145387 seconds time elapsed
+
+       0.000542000 seconds user
+       0.003551000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            25,119      L1-dcache-load-misses     #    3.86% of all L1-dcache hits  
+           650,265      L1-dcache-loads                                             
+           650,265      dTLB-loads                                                  
+
+       0.004800430 seconds time elapsed
+
+       0.000518000 seconds user
+       0.003655000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            24,795      L1-dcache-load-misses     #    3.81% of all L1-dcache hits  
+           650,329      L1-dcache-loads                                             
+           363,257      dTLB-stores                                                 
+
+       0.004796291 seconds time elapsed
+
+       0.003708000 seconds user
+       0.000614000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            20,287      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+           629,281      branch-loads                                                
+
+       0.004228314 seconds time elapsed
+
+       0.000541000 seconds user
+       0.003584000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            22,010      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+               976      dTLB-load-misses                                            
+
+       0.004283526 seconds time elapsed
+
+       0.004186000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            44,466      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+           646,844      dTLB-loads                                                  
+
+       0.005405234 seconds time elapsed
+
+       0.000520000 seconds user
+       0.004743000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            24,215      L1-dcache-load-misses                                       
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.004182402 seconds time elapsed
+
+       0.003510000 seconds user
+       0.000598000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            84,634      L1-dcache-load-misses                                       
+           629,285      branch-loads                                                
+             7,722      dTLB-load-misses                                            
+
+       0.014505994 seconds time elapsed
+
+       0.007900000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            29,951      L1-dcache-load-misses                                       
+           629,278      branch-loads                                                
+           649,116      dTLB-loads                                                  
+
+       0.004726612 seconds time elapsed
+
+       0.000617000 seconds user
+       0.004116000 seconds sys
+
+
+# started on Fri Mar  5 12:03:53 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            24,978      L1-dcache-load-misses                                       
+           629,283      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.004066287 seconds time elapsed
+
+       0.004068000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            28,730      L1-dcache-load-misses                                       
+             1,100      dTLB-load-misses          #    0.17% of all dTLB cache hits 
+           649,956      dTLB-loads                                                  
+
+       0.005560586 seconds time elapsed
+
+       0.002639000 seconds user
+       0.002104000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            90,003      L1-dcache-load-misses                                       
+             7,346      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.015396015 seconds time elapsed
+
+       0.000000000 seconds user
+       0.008272000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+            23,032      L1-dcache-load-misses                                       
+           650,305      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.004123342 seconds time elapsed
+
+       0.000523000 seconds user
+       0.003558000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,349      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+           629,313      branch-loads                                                
+
+       0.004996099 seconds time elapsed
+
+       0.004161000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,360      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+             7,287      dTLB-load-misses                                            
+
+       0.014658780 seconds time elapsed
+
+       0.000543000 seconds user
+       0.007508000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,301      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+           650,301      dTLB-loads                                                  
+
+       0.003997574 seconds time elapsed
+
+       0.003987000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,341      L1-dcache-loads                                             
+           363,257      L1-dcache-stores                                            
+           363,257      dTLB-stores                                                 
+
+       0.014573209 seconds time elapsed
+
+       0.004276000 seconds user
+       0.003730000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,267      L1-dcache-loads                                             
+           629,279      branch-loads                                                
+             7,406      dTLB-load-misses                                            
+
+       0.016060305 seconds time elapsed
+
+       0.000547000 seconds user
+       0.008025000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,294      L1-dcache-loads                                             
+           629,277      branch-loads                                                
+           650,294      dTLB-loads                                                  
+
+       0.014660166 seconds time elapsed
+
+       0.003013000 seconds user
+       0.004967000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,299      L1-dcache-loads                                             
+           629,312      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.007046478 seconds time elapsed
+
+       0.004380000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,331      L1-dcache-loads                                             
+             7,407      dTLB-load-misses          #    1.14% of all dTLB cache hits 
+           650,331      dTLB-loads                                                  
+
+       0.015666674 seconds time elapsed
+
+       0.008365000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,338      L1-dcache-loads                                             
+             7,376      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.014768427 seconds time elapsed
+
+       0.000535000 seconds user
+       0.007450000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           650,315      L1-dcache-loads                                             
+           650,315      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.004040173 seconds time elapsed
+
+       0.004014000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+           629,282      branch-loads                                                
+               980      dTLB-load-misses                                            
+
+       0.004917242 seconds time elapsed
+
+       0.000649000 seconds user
+       0.003819000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+           629,315      branch-loads                                                
+           650,281      dTLB-loads                                                  
+
+       0.006243180 seconds time elapsed
+
+       0.000000000 seconds user
+       0.004789000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+           629,275      branch-loads                                                
+           363,257      dTLB-stores                                                 
+
+       0.004179301 seconds time elapsed
+
+       0.004097000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+             1,005      dTLB-load-misses          #    0.15% of all dTLB cache hits 
+           650,319      dTLB-loads                                                  
+
+       0.004187525 seconds time elapsed
+
+       0.003561000 seconds user
+       0.000582000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+             7,348      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.014928976 seconds time elapsed
+
+       0.003090000 seconds user
+       0.005127000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           363,257      L1-dcache-stores                                            
+           650,318      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.003962769 seconds time elapsed
+
+       0.000472000 seconds user
+       0.003516000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,284      branch-loads                                                
+               938      dTLB-load-misses          #    0.14% of all dTLB cache hits 
+           650,326      dTLB-loads                                                  
+
+       0.004057213 seconds time elapsed
+
+       0.004047000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,277      branch-loads                                                
+               989      dTLB-load-misses                                            
+           363,257      dTLB-stores                                                 
+
+       0.004115637 seconds time elapsed
+
+       0.004101000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+           629,276      branch-loads                                                
+           650,217      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.005304419 seconds time elapsed
+
+       0.000625000 seconds user
+       0.003928000 seconds sys
+
+
+# started on Fri Mar  5 12:03:54 2021
+
+
+ Performance counter stats for './Virus.sh':
+
+               927      dTLB-load-misses          #    0.14% of all dTLB cache hits 
+           650,344      dTLB-loads                                                  
+           363,257      dTLB-stores                                                 
+
+       0.003935600 seconds time elapsed
+
+       0.000530000 seconds user
+       0.003440000 seconds sys
+
+

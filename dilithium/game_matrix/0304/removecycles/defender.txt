@@ -1,0 +1,3300 @@
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,116      branches:u                                                  
+           106,031      branch-misses:u           #    0.08% of all branches        
+            30,910      cache-misses:u                                              
+
+       0.067493343 seconds time elapsed
+
+       0.057896000 seconds user
+       0.008270000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,117      branches:u                                                  
+           104,985      branch-misses:u           #    0.07% of all branches        
+           107,730      cache-references:u                                          
+
+       0.063389975 seconds time elapsed
+
+       0.063127000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+           106,121      branch-misses:u           #    0.08% of all branches        
+     1,042,148,630      instructions:u                                              
+
+       0.063544547 seconds time elapsed
+
+       0.058938000 seconds user
+       0.003929000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,113      branches:u                                                  
+           106,093      branch-misses:u           #    0.08% of all branches        
+            69,974      L1-dcache-load-misses                                       
+
+       0.064538954 seconds time elapsed
+
+       0.064241000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+           104,051      branch-misses:u           #    0.07% of all branches        
+        45,899,645      L1-dcache-loads                                             
+
+       0.063693555 seconds time elapsed
+
+       0.059284000 seconds user
+       0.003952000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,114      branches:u                                                  
+           104,098      branch-misses:u           #    0.07% of all branches        
+       140,396,880      L1-dcache-stores                                            
+
+       0.063003051 seconds time elapsed
+
+       0.062916000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:18 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+           104,043      branch-misses:u           #    0.07% of all branches        
+       140,408,110      branch-loads                                                
+
+       0.066497793 seconds time elapsed
+
+       0.062474000 seconds user
+       0.003904000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,119      branches:u                                                  
+           104,841      branch-misses:u           #    0.07% of all branches        
+             1,507      dTLB-load-misses                                            
+
+       0.065107324 seconds time elapsed
+
+       0.063992000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,148      branches:u                                                  
+           105,410      branch-misses:u           #    0.08% of all branches        
+        45,899,644      dTLB-loads                                                  
+
+       0.064323946 seconds time elapsed
+
+       0.059812000 seconds user
+       0.003987000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,114      branches:u                                                  
+           104,414      branch-misses:u           #    0.07% of all branches        
+       140,396,880      dTLB-stores                                                 
+
+       0.063863721 seconds time elapsed
+
+       0.063717000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+            23,612      cache-misses:u            #   21.304 % of all cache refs    
+           110,833      cache-references:u                                          
+
+       0.063217133 seconds time elapsed
+
+       0.059024000 seconds user
+       0.003934000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+            22,196      cache-misses:u                                              
+     1,042,148,623      instructions:u                                              
+
+       0.062812570 seconds time elapsed
+
+       0.062839000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+            25,386      cache-misses:u                                              
+            72,068      L1-dcache-load-misses                                       
+
+       0.063687444 seconds time elapsed
+
+       0.063664000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+            23,566      cache-misses:u                                              
+        45,899,649      L1-dcache-loads                                             
+
+       0.063049929 seconds time elapsed
+
+       0.062846000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+            25,332      cache-misses:u                                              
+       140,396,884      L1-dcache-stores                                            
+
+       0.063273962 seconds time elapsed
+
+       0.063184000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+            20,189      cache-misses:u                                              
+       140,408,110      branch-loads                                                
+
+       0.063197778 seconds time elapsed
+
+       0.063090000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+            36,349      cache-misses:u                                              
+             1,473      dTLB-load-misses                                            
+
+       0.066308911 seconds time elapsed
+
+       0.064527000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+            26,161      cache-misses:u                                              
+        45,899,646      dTLB-loads                                                  
+
+       0.063287798 seconds time elapsed
+
+       0.063266000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+            23,595      cache-misses:u                                              
+       140,396,884      dTLB-stores                                                 
+
+       0.063182315 seconds time elapsed
+
+       0.063130000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+           104,147      cache-references:u                                          
+     1,042,148,623      instructions:u                                              
+
+       0.063050794 seconds time elapsed
+
+       0.062936000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+           111,446      cache-references:u                                          
+            68,946      L1-dcache-load-misses                                       
+
+       0.069194353 seconds time elapsed
+
+       0.063131000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:19 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+           101,729      cache-references:u                                          
+        45,899,657      L1-dcache-loads                                             
+
+       0.062988542 seconds time elapsed
+
+       0.062871000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+           101,100      cache-references:u                                          
+       140,396,880      L1-dcache-stores                                            
+
+       0.063370944 seconds time elapsed
+
+       0.063334000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+           107,616      cache-references:u                                          
+       140,408,110      branch-loads                                                
+
+       0.063885241 seconds time elapsed
+
+       0.063871000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,111      branches:u                                                  
+           101,620      cache-references:u                                          
+             1,447      dTLB-load-misses                                            
+
+       0.065220711 seconds time elapsed
+
+       0.063526000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+           103,255      cache-references:u                                          
+        45,899,622      dTLB-loads                                                  
+
+       0.064296102 seconds time elapsed
+
+       0.064221000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,107      branches:u                                                  
+           108,504      cache-references:u                                          
+       140,396,880      dTLB-stores                                                 
+
+       0.063432140 seconds time elapsed
+
+       0.063334000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+     1,042,148,624      instructions:u                                              
+            68,630      L1-dcache-load-misses                                       
+
+       0.063495284 seconds time elapsed
+
+       0.063433000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+     1,042,148,623      instructions:u                                              
+        45,899,634      L1-dcache-loads                                             
+
+       0.063430928 seconds time elapsed
+
+       0.063449000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+     1,042,148,622      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+
+       0.063508813 seconds time elapsed
+
+       0.059498000 seconds user
+       0.003966000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,115      branches:u                                                  
+     1,042,148,635      instructions:u                                              
+       140,408,115      branch-loads                                                
+
+       0.063137031 seconds time elapsed
+
+       0.063047000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+     1,042,148,632      instructions:u                                              
+             1,440      dTLB-load-misses                                            
+
+       0.063870414 seconds time elapsed
+
+       0.063664000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,113      branches:u                                                  
+     1,042,148,627      instructions:u                                              
+        45,899,642      dTLB-loads                                                  
+
+       0.063960757 seconds time elapsed
+
+       0.063812000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,113      branches:u                                                  
+     1,042,148,627      instructions:u                                              
+       140,396,880      dTLB-stores                                                 
+
+       0.066360390 seconds time elapsed
+
+       0.064547000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,111      branches:u                                                  
+            70,685      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,425      L1-dcache-loads                                             
+
+       0.064285441 seconds time elapsed
+
+       0.063972000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:20 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+            69,311      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+
+       0.063548814 seconds time elapsed
+
+       0.063541000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+            69,707      L1-dcache-load-misses                                       
+       140,408,112      branch-loads                                                
+
+       0.063361563 seconds time elapsed
+
+       0.059405000 seconds user
+       0.003960000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,245      branches:u                                                  
+            70,670      L1-dcache-load-misses                                       
+             1,544      dTLB-load-misses                                            
+
+       0.063714039 seconds time elapsed
+
+       0.063593000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,107      branches:u                                                  
+            68,413      L1-dcache-load-misses                                       
+        45,899,655      dTLB-loads                                                  
+
+       0.062934004 seconds time elapsed
+
+       0.062876000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,111      branches:u                                                  
+            69,099      L1-dcache-load-misses                                       
+       140,396,880      dTLB-stores                                                 
+
+       0.063474141 seconds time elapsed
+
+       0.063363000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+        45,899,635      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.063126296 seconds time elapsed
+
+       0.063118000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,107      branches:u                                                  
+        45,899,620      L1-dcache-loads                                             
+       140,408,107      branch-loads                                                
+
+       0.062808595 seconds time elapsed
+
+       0.058554000 seconds user
+       0.004182000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+        45,899,585      L1-dcache-loads                                             
+             1,463      dTLB-load-misses                                            
+
+       0.066592359 seconds time elapsed
+
+       0.060927000 seconds user
+       0.003807000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+        45,899,650      L1-dcache-loads                                             
+        45,899,650      dTLB-loads                                                  
+
+       0.063301948 seconds time elapsed
+
+       0.063195000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,147      branches:u                                                  
+        45,899,646      L1-dcache-loads                                             
+       140,396,880      dTLB-stores                                                 
+
+       0.062973955 seconds time elapsed
+
+       0.062957000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+       140,396,880      L1-dcache-stores                                            
+       140,408,109      branch-loads                                                
+
+       0.062848290 seconds time elapsed
+
+       0.058944000 seconds user
+       0.003929000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+       140,396,880      L1-dcache-stores                                            
+             1,462      dTLB-load-misses                                            
+
+       0.063238566 seconds time elapsed
+
+       0.063234000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+       140,396,880      L1-dcache-stores                                            
+        45,899,597      dTLB-loads                                                  
+
+       0.063189846 seconds time elapsed
+
+       0.063121000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,108      branches:u                                                  
+       140,396,880      L1-dcache-stores                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.062975066 seconds time elapsed
+
+       0.062946000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:21 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,111      branches:u                                                  
+       140,408,111      branch-loads                                                
+             1,404      dTLB-load-misses                                            
+
+       0.062935677 seconds time elapsed
+
+       0.062967000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,116      branches:u                                                  
+       140,408,116      branch-loads                                                
+        45,899,652      dTLB-loads                                                  
+
+       0.064793612 seconds time elapsed
+
+       0.059344000 seconds user
+       0.003956000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branches:u                                                  
+       140,408,109      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.063639197 seconds time elapsed
+
+       0.063598000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+             1,457      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,652      dTLB-loads                                                  
+
+       0.063175729 seconds time elapsed
+
+       0.063109000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,110      branches:u                                                  
+             1,377      dTLB-load-misses                                            
+       140,396,884      dTLB-stores                                                 
+
+       0.062783435 seconds time elapsed
+
+       0.062742000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branches:u                                                  
+        45,899,650      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063097168 seconds time elapsed
+
+       0.063030000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,845      branch-misses:u                                             
+            23,542      cache-misses:u            #   23.393 % of all cache refs    
+           100,637      cache-references:u                                          
+
+       0.063156038 seconds time elapsed
+
+       0.063040000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,455      branch-misses:u                                             
+            24,132      cache-misses:u                                              
+     1,042,148,633      instructions:u                                              
+
+       0.063150801 seconds time elapsed
+
+       0.063047000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           107,704      branch-misses:u                                             
+            27,916      cache-misses:u                                              
+            69,143      L1-dcache-load-misses                                       
+
+       0.063135152 seconds time elapsed
+
+       0.063055000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,747      branch-misses:u                                             
+            19,332      cache-misses:u                                              
+        45,899,653      L1-dcache-loads                                             
+
+       0.063005956 seconds time elapsed
+
+       0.058942000 seconds user
+       0.003929000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,335      branch-misses:u                                             
+            45,909      cache-misses:u                                              
+       140,396,884      L1-dcache-stores                                            
+
+       0.066411610 seconds time elapsed
+
+       0.065619000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           106,268      branch-misses:u                                             
+            34,996      cache-misses:u                                              
+       140,408,113      branch-loads                                                
+
+       0.064118626 seconds time elapsed
+
+       0.063939000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,429      branch-misses:u                                             
+            24,553      cache-misses:u                                              
+             1,438      dTLB-load-misses                                            
+
+       0.063380752 seconds time elapsed
+
+       0.059272000 seconds user
+       0.003951000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,525      branch-misses:u                                             
+            23,645      cache-misses:u                                              
+        45,899,516      dTLB-loads                                                  
+
+       0.063531012 seconds time elapsed
+
+       0.059375000 seconds user
+       0.003958000 seconds sys
+
+
+# started on Fri Mar  5 11:59:22 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,200      branch-misses:u                                             
+            24,116      cache-misses:u                                              
+       140,396,884      dTLB-stores                                                 
+
+       0.063427033 seconds time elapsed
+
+       0.063283000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,405      branch-misses:u                                             
+           102,637      cache-references:u                                          
+     1,042,148,624      instructions:u                                              
+
+       0.063039095 seconds time elapsed
+
+       0.062951000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,091      branch-misses:u                                             
+           104,772      cache-references:u                                          
+            69,693      L1-dcache-load-misses                                       
+
+       0.063780373 seconds time elapsed
+
+       0.063750000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,381      branch-misses:u                                             
+           109,486      cache-references:u                                          
+        45,899,643      L1-dcache-loads                                             
+
+       0.064162464 seconds time elapsed
+
+       0.064146000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,929      branch-misses:u                                             
+           108,439      cache-references:u                                          
+       140,396,884      L1-dcache-stores                                            
+
+       0.063486481 seconds time elapsed
+
+       0.059267000 seconds user
+       0.003951000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,520      branch-misses:u                                             
+           123,500      cache-references:u                                          
+       140,408,112      branch-loads                                                
+
+       0.064903947 seconds time elapsed
+
+       0.061020000 seconds user
+       0.003813000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           118,537      branch-misses:u                                             
+           113,433      cache-references:u                                          
+             1,467      dTLB-load-misses                                            
+
+       0.064918461 seconds time elapsed
+
+       0.064885000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,158      branch-misses:u                                             
+           115,072      cache-references:u                                          
+        45,899,554      dTLB-loads                                                  
+
+       0.063001040 seconds time elapsed
+
+       0.062886000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,842      branch-misses:u                                             
+           105,701      cache-references:u                                          
+       140,396,880      dTLB-stores                                                 
+
+       0.063165752 seconds time elapsed
+
+       0.063149000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,042      branch-misses:u                                             
+     1,042,148,623      instructions:u                                              
+            68,823      L1-dcache-load-misses                                       
+
+       0.063685160 seconds time elapsed
+
+       0.063627000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,603      branch-misses:u                                             
+     1,042,148,625      instructions:u                                              
+        45,899,641      L1-dcache-loads                                             
+
+       0.063186422 seconds time elapsed
+
+       0.063157000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,734      branch-misses:u                                             
+     1,042,148,623      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+
+       0.063671930 seconds time elapsed
+
+       0.063653000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,878      branch-misses:u                                             
+     1,042,148,625      instructions:u                                              
+       140,408,111      branch-loads                                                
+
+       0.063386236 seconds time elapsed
+
+       0.063346000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           106,030      branch-misses:u                                             
+     1,042,148,629      instructions:u                                              
+             1,431      dTLB-load-misses                                            
+
+       0.064050656 seconds time elapsed
+
+       0.064026000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,637      branch-misses:u                                             
+     1,042,148,629      instructions:u                                              
+        45,899,017      dTLB-loads                                                  
+
+       0.064944981 seconds time elapsed
+
+       0.064170000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:23 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,206      branch-misses:u                                             
+     1,042,148,621      instructions:u                                              
+       140,396,880      dTLB-stores                                                 
+
+       0.063114256 seconds time elapsed
+
+       0.059103000 seconds user
+       0.003940000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,067      branch-misses:u                                             
+            69,240      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,616      L1-dcache-loads                                             
+
+       0.063143685 seconds time elapsed
+
+       0.063139000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,512      branch-misses:u                                             
+            69,867      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+
+       0.063753211 seconds time elapsed
+
+       0.059730000 seconds user
+       0.003982000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,810      branch-misses:u                                             
+            69,236      L1-dcache-load-misses                                       
+       140,408,109      branch-loads                                                
+
+       0.063242226 seconds time elapsed
+
+       0.063223000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,056      branch-misses:u                                             
+            69,445      L1-dcache-load-misses                                       
+             1,424      dTLB-load-misses                                            
+
+       0.063739042 seconds time elapsed
+
+       0.063732000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,307      branch-misses:u                                             
+            69,121      L1-dcache-load-misses                                       
+        45,899,615      dTLB-loads                                                  
+
+       0.063916906 seconds time elapsed
+
+       0.063902000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,953      branch-misses:u                                             
+            68,466      L1-dcache-load-misses                                       
+       140,396,880      dTLB-stores                                                 
+
+       0.064147227 seconds time elapsed
+
+       0.059348000 seconds user
+       0.003956000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           104,393      branch-misses:u                                             
+        45,899,467      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.064681355 seconds time elapsed
+
+       0.064662000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,391      branch-misses:u                                             
+        45,899,658      L1-dcache-loads                                             
+       140,408,109      branch-loads                                                
+
+       0.063713167 seconds time elapsed
+
+       0.059695000 seconds user
+       0.003979000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           102,608      branch-misses:u                                             
+        45,899,657      L1-dcache-loads                                             
+             1,388      dTLB-load-misses                                            
+
+       0.063856590 seconds time elapsed
+
+       0.063817000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,418      branch-misses:u                                             
+        45,899,655      L1-dcache-loads                                             
+        45,899,655      dTLB-loads                                                  
+
+       0.063832634 seconds time elapsed
+
+       0.059840000 seconds user
+       0.003989000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,797      branch-misses:u                                             
+        45,899,548      L1-dcache-loads                                             
+       140,396,880      dTLB-stores                                                 
+
+       0.064669977 seconds time elapsed
+
+       0.064601000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,565      branch-misses:u                                             
+       140,396,884      L1-dcache-stores                                            
+       140,408,110      branch-loads                                                
+
+       0.064372431 seconds time elapsed
+
+       0.064191000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,490      branch-misses:u                                             
+       140,396,884      L1-dcache-stores                                            
+             1,446      dTLB-load-misses                                            
+
+       0.063710026 seconds time elapsed
+
+       0.063017000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:24 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           109,978      branch-misses:u                                             
+       140,396,880      L1-dcache-stores                                            
+        45,899,640      dTLB-loads                                                  
+
+       0.062991204 seconds time elapsed
+
+       0.062802000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           106,110      branch-misses:u                                             
+       140,396,884      L1-dcache-stores                                            
+       140,396,884      dTLB-stores                                                 
+
+       0.067188238 seconds time elapsed
+
+       0.064580000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           108,449      branch-misses:u                                             
+       140,408,107      branch-loads                                                
+             1,415      dTLB-load-misses                                            
+
+       0.063973841 seconds time elapsed
+
+       0.063833000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,629      branch-misses:u                                             
+       140,408,109      branch-loads                                                
+        45,899,638      dTLB-loads                                                  
+
+       0.063895990 seconds time elapsed
+
+       0.063884000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,875      branch-misses:u                                             
+       140,408,110      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.063346833 seconds time elapsed
+
+       0.059314000 seconds user
+       0.003954000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           102,986      branch-misses:u                                             
+             1,440      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,646      dTLB-loads                                                  
+
+       0.062965782 seconds time elapsed
+
+       0.062964000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,013      branch-misses:u                                             
+             1,397      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063487397 seconds time elapsed
+
+       0.063393000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           114,854      branch-misses:u                                             
+        45,899,648      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063233254 seconds time elapsed
+
+       0.063147000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            22,916      cache-misses:u            #   22.272 % of all cache refs    
+           102,893      cache-references:u                                          
+     1,042,148,631      instructions:u                                              
+
+       0.062952659 seconds time elapsed
+
+       0.062893000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            23,172      cache-misses:u            #   21.270 % of all cache refs    
+           108,941      cache-references:u                                          
+            68,710      L1-dcache-load-misses                                       
+
+       0.063267946 seconds time elapsed
+
+       0.063181000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            45,248      cache-misses:u            #   35.119 % of all cache refs    
+           128,842      cache-references:u                                          
+        45,899,332      L1-dcache-loads                                             
+
+       0.064531369 seconds time elapsed
+
+       0.060390000 seconds user
+       0.004026000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            25,906      cache-misses:u            #   24.405 % of all cache refs    
+           106,152      cache-references:u                                          
+       140,396,880      L1-dcache-stores                                            
+
+       0.063809568 seconds time elapsed
+
+       0.063684000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            24,751      cache-misses:u            #   22.369 % of all cache refs    
+           110,647      cache-references:u                                          
+       140,408,110      branch-loads                                                
+
+       0.064043998 seconds time elapsed
+
+       0.063935000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            31,924      cache-misses:u            #   29.737 % of all cache refs    
+           107,353      cache-references:u                                          
+             1,426      dTLB-load-misses                                            
+
+       0.064689633 seconds time elapsed
+
+       0.064021000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:25 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,732      cache-misses:u            #   29.792 % of all cache refs    
+            93,084      cache-references:u                                          
+        45,899,652      dTLB-loads                                                  
+
+       0.063099910 seconds time elapsed
+
+       0.059095000 seconds user
+       0.003939000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,024      cache-misses:u            #   23.253 % of all cache refs    
+           116,218      cache-references:u                                          
+       140,396,880      dTLB-stores                                                 
+
+       0.064124144 seconds time elapsed
+
+       0.063921000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            29,053      cache-misses:u                                              
+     1,042,148,630      instructions:u                                              
+            68,900      L1-dcache-load-misses                                       
+
+       0.063800434 seconds time elapsed
+
+       0.063750000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            26,171      cache-misses:u                                              
+     1,042,148,632      instructions:u                                              
+        45,899,658      L1-dcache-loads                                             
+
+       0.063984249 seconds time elapsed
+
+       0.063384000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,072      cache-misses:u                                              
+     1,042,148,635      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+
+       0.065812231 seconds time elapsed
+
+       0.063204000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            29,520      cache-misses:u                                              
+     1,042,148,632      instructions:u                                              
+       140,408,112      branch-loads                                                
+
+       0.064262099 seconds time elapsed
+
+       0.063604000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            25,895      cache-misses:u                                              
+     1,042,148,626      instructions:u                                              
+             1,423      dTLB-load-misses                                            
+
+       0.064751703 seconds time elapsed
+
+       0.064167000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            19,964      cache-misses:u                                              
+     1,042,148,624      instructions:u                                              
+        45,899,639      dTLB-loads                                                  
+
+       0.064419838 seconds time elapsed
+
+       0.063868000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            22,477      cache-misses:u                                              
+     1,042,148,624      instructions:u                                              
+       140,396,880      dTLB-stores                                                 
+
+       0.063426367 seconds time elapsed
+
+       0.062887000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            19,422      cache-misses:u                                              
+            68,473      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,541      L1-dcache-loads                                             
+
+       0.063510724 seconds time elapsed
+
+       0.062892000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            23,225      cache-misses:u                                              
+            68,956      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+
+       0.063514520 seconds time elapsed
+
+       0.062921000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            28,445      cache-misses:u                                              
+            69,641      L1-dcache-load-misses                                       
+       140,408,109      branch-loads                                                
+
+       0.064073616 seconds time elapsed
+
+       0.059491000 seconds user
+       0.003966000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,174      cache-misses:u                                              
+            68,812      L1-dcache-load-misses                                       
+             1,417      dTLB-load-misses                                            
+
+       0.064112641 seconds time elapsed
+
+       0.063496000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            44,689      cache-misses:u                                              
+            70,770      L1-dcache-load-misses                                       
+        45,899,576      dTLB-loads                                                  
+
+       0.066333383 seconds time elapsed
+
+       0.063808000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:26 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            21,784      cache-misses:u                                              
+            69,569      L1-dcache-load-misses                                       
+       140,396,880      dTLB-stores                                                 
+
+       0.063438783 seconds time elapsed
+
+       0.062870000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            26,234      cache-misses:u                                              
+        45,899,593      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.064699982 seconds time elapsed
+
+       0.063817000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            25,572      cache-misses:u                                              
+        45,899,610      L1-dcache-loads                                             
+       140,408,109      branch-loads                                                
+
+       0.064112182 seconds time elapsed
+
+       0.063575000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,104      cache-misses:u                                              
+        45,899,625      L1-dcache-loads                                             
+             1,432      dTLB-load-misses                                            
+
+       0.063303812 seconds time elapsed
+
+       0.059288000 seconds user
+       0.003952000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            27,946      cache-misses:u                                              
+        45,899,521      L1-dcache-loads                                             
+        45,899,521      dTLB-loads                                                  
+
+       0.064149393 seconds time elapsed
+
+       0.063433000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            20,206      cache-misses:u                                              
+        45,899,655      L1-dcache-loads                                             
+       140,396,880      dTLB-stores                                                 
+
+       0.063340074 seconds time elapsed
+
+       0.058830000 seconds user
+       0.003922000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            24,782      cache-misses:u                                              
+       140,396,880      L1-dcache-stores                                            
+       140,408,111      branch-loads                                                
+
+       0.063516365 seconds time elapsed
+
+       0.062868000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            25,433      cache-misses:u                                              
+       140,396,884      L1-dcache-stores                                            
+             1,446      dTLB-load-misses                                            
+
+       0.064413558 seconds time elapsed
+
+       0.063052000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            39,469      cache-misses:u                                              
+       140,396,880      L1-dcache-stores                                            
+        45,899,488      dTLB-loads                                                  
+
+       0.066425951 seconds time elapsed
+
+       0.060614000 seconds user
+       0.003788000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            20,955      cache-misses:u                                              
+       140,396,880      L1-dcache-stores                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063874505 seconds time elapsed
+
+       0.063201000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            23,750      cache-misses:u                                              
+       140,408,111      branch-loads                                                
+             1,432      dTLB-load-misses                                            
+
+       0.064154037 seconds time elapsed
+
+       0.063562000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            25,786      cache-misses:u                                              
+       140,408,110      branch-loads                                                
+        45,899,471      dTLB-loads                                                  
+
+       0.063678951 seconds time elapsed
+
+       0.063523000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            24,444      cache-misses:u                                              
+       140,408,110      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.064111796 seconds time elapsed
+
+       0.063491000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            19,347      cache-misses:u                                              
+             1,452      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,640      dTLB-loads                                                  
+
+       0.062966587 seconds time elapsed
+
+       0.062836000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            29,325      cache-misses:u                                              
+             1,449      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.064084916 seconds time elapsed
+
+       0.059524000 seconds user
+       0.003968000 seconds sys
+
+
+# started on Fri Mar  5 11:59:27 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            20,171      cache-misses:u                                              
+        45,899,578      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063738945 seconds time elapsed
+
+       0.063022000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           109,320      cache-references:u                                          
+     1,042,148,622      instructions:u                                              
+            68,779      L1-dcache-load-misses                                       
+
+       0.064097366 seconds time elapsed
+
+       0.064072000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            90,441      cache-references:u                                          
+     1,042,148,628      instructions:u                                              
+        45,899,607      L1-dcache-loads                                             
+
+       0.063852552 seconds time elapsed
+
+       0.063147000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           100,369      cache-references:u                                          
+     1,042,148,624      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+
+       0.063523381 seconds time elapsed
+
+       0.062967000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,125      cache-references:u                                          
+     1,042,148,625      instructions:u                                              
+       140,408,111      branch-loads                                                
+
+       0.063624955 seconds time elapsed
+
+       0.063025000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           109,185      cache-references:u                                          
+     1,042,148,628      instructions:u                                              
+             1,414      dTLB-load-misses                                            
+
+       0.063744451 seconds time elapsed
+
+       0.059232000 seconds user
+       0.003948000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           103,351      cache-references:u                                          
+     1,042,148,629      instructions:u                                              
+        45,899,641      dTLB-loads                                                  
+
+       0.063836879 seconds time elapsed
+
+       0.063214000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            98,986      cache-references:u                                          
+     1,042,148,631      instructions:u                                              
+       140,396,884      dTLB-stores                                                 
+
+       0.063547855 seconds time elapsed
+
+       0.058997000 seconds user
+       0.003933000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           106,147      cache-references:u                                          
+            69,102      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,650      L1-dcache-loads                                             
+
+       0.063467694 seconds time elapsed
+
+       0.062846000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           105,482      cache-references:u                                          
+            69,412      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+
+       0.063480760 seconds time elapsed
+
+       0.062924000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           131,996      cache-references:u                                          
+            72,167      L1-dcache-load-misses                                       
+       140,408,118      branch-loads                                                
+
+       0.067755126 seconds time elapsed
+
+       0.065164000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           114,103      cache-references:u                                          
+            70,040      L1-dcache-load-misses                                       
+             1,523      dTLB-load-misses                                            
+
+       0.064939860 seconds time elapsed
+
+       0.064179000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           116,213      cache-references:u                                          
+            70,687      L1-dcache-load-misses                                       
+        45,899,604      dTLB-loads                                                  
+
+       0.064143312 seconds time elapsed
+
+       0.059900000 seconds user
+       0.003993000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           117,407      cache-references:u                                          
+            69,140      L1-dcache-load-misses                                       
+       140,396,880      dTLB-stores                                                 
+
+       0.063690424 seconds time elapsed
+
+       0.063128000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:28 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           117,218      cache-references:u                                          
+        45,899,648      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.063514355 seconds time elapsed
+
+       0.062737000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           101,705      cache-references:u                                          
+        45,899,653      L1-dcache-loads                                             
+       140,408,114      branch-loads                                                
+
+       0.063611192 seconds time elapsed
+
+       0.062911000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           127,668      cache-references:u                                          
+        45,899,450      L1-dcache-loads                                             
+             1,453      dTLB-load-misses                                            
+
+       0.064460674 seconds time elapsed
+
+       0.060047000 seconds user
+       0.003752000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           111,057      cache-references:u                                          
+        45,899,511      L1-dcache-loads                                             
+        45,899,511      dTLB-loads                                                  
+
+       0.065196940 seconds time elapsed
+
+       0.064477000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           126,912      cache-references:u                                          
+        45,899,622      L1-dcache-loads                                             
+       140,396,880      dTLB-stores                                                 
+
+       0.066460914 seconds time elapsed
+
+       0.059946000 seconds user
+       0.004281000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           107,947      cache-references:u                                          
+       140,396,880      L1-dcache-stores                                            
+       140,408,113      branch-loads                                                
+
+       0.063739506 seconds time elapsed
+
+       0.063486000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           107,514      cache-references:u                                          
+       140,396,880      L1-dcache-stores                                            
+             1,436      dTLB-load-misses                                            
+
+       0.063765860 seconds time elapsed
+
+       0.059106000 seconds user
+       0.003940000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           124,502      cache-references:u                                          
+       140,396,884      L1-dcache-stores                                            
+        45,899,158      dTLB-loads                                                  
+
+       0.065773019 seconds time elapsed
+
+       0.061319000 seconds user
+       0.003832000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           102,039      cache-references:u                                          
+       140,396,884      L1-dcache-stores                                            
+       140,396,884      dTLB-stores                                                 
+
+       0.063586813 seconds time elapsed
+
+       0.062941000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           102,102      cache-references:u                                          
+       140,408,110      branch-loads                                                
+             1,440      dTLB-load-misses                                            
+
+       0.063566532 seconds time elapsed
+
+       0.062884000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            95,298      cache-references:u                                          
+       140,408,113      branch-loads                                                
+        45,899,650      dTLB-loads                                                  
+
+       0.063454904 seconds time elapsed
+
+       0.062833000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+           108,765      cache-references:u                                          
+       140,408,110      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.063917870 seconds time elapsed
+
+       0.063309000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            91,542      cache-references:u                                          
+             1,451      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,660      dTLB-loads                                                  
+
+       0.063661660 seconds time elapsed
+
+       0.059043000 seconds user
+       0.003936000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            96,885      cache-references:u                                          
+             1,393      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063626986 seconds time elapsed
+
+       0.063005000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:29 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            94,245      cache-references:u                                          
+        45,899,644      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063433376 seconds time elapsed
+
+       0.054885000 seconds user
+       0.007840000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+            69,443      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,658      L1-dcache-loads                                             
+
+       0.063610731 seconds time elapsed
+
+       0.062995000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,630      instructions:u                                              
+            69,713      L1-dcache-load-misses                                       
+       140,396,884      L1-dcache-stores                                            
+
+       0.064281839 seconds time elapsed
+
+       0.062962000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,628      instructions:u                                              
+            70,267      L1-dcache-load-misses                                       
+       140,408,114      branch-loads                                                
+
+       0.063688739 seconds time elapsed
+
+       0.063228000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,623      instructions:u                                              
+            69,102      L1-dcache-load-misses                                       
+             1,428      dTLB-load-misses                                            
+
+       0.063518608 seconds time elapsed
+
+       0.062877000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,635      instructions:u                                              
+            68,861      L1-dcache-load-misses                                       
+        45,899,660      dTLB-loads                                                  
+
+       0.063556268 seconds time elapsed
+
+       0.062970000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,626      instructions:u                                              
+            69,221      L1-dcache-load-misses                                       
+       140,396,880      dTLB-stores                                                 
+
+       0.064551170 seconds time elapsed
+
+       0.060104000 seconds user
+       0.003756000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,626      instructions:u                                              
+        45,899,660      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.064342603 seconds time elapsed
+
+       0.063764000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,627      instructions:u                                              
+        45,899,646      L1-dcache-loads                                             
+       140,408,113      branch-loads                                                
+
+       0.063512273 seconds time elapsed
+
+       0.059011000 seconds user
+       0.003934000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,632      instructions:u                                              
+        45,899,657      L1-dcache-loads                                             
+             1,436      dTLB-load-misses                                            
+
+       0.063603096 seconds time elapsed
+
+       0.062998000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,623      instructions:u                                              
+        45,899,647      L1-dcache-loads                                             
+        45,899,647      dTLB-loads                                                  
+
+       0.063488485 seconds time elapsed
+
+       0.062835000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+        45,899,291      L1-dcache-loads                                             
+       140,396,880      dTLB-stores                                                 
+
+       0.064685761 seconds time elapsed
+
+       0.059988000 seconds user
+       0.003999000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,623      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+       140,408,109      branch-loads                                                
+
+       0.063694659 seconds time elapsed
+
+       0.059159000 seconds user
+       0.003943000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,625      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+             1,453      dTLB-load-misses                                            
+
+       0.063624856 seconds time elapsed
+
+       0.063086000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:30 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+        45,898,641      dTLB-loads                                                  
+
+       0.064620339 seconds time elapsed
+
+       0.063835000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,628      instructions:u                                              
+       140,396,880      L1-dcache-stores                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063951598 seconds time elapsed
+
+       0.063229000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+       140,408,110      branch-loads                                                
+             1,417      dTLB-load-misses                                            
+
+       0.063944448 seconds time elapsed
+
+       0.063250000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,634      instructions:u                                              
+       140,408,114      branch-loads                                                
+        45,899,491      dTLB-loads                                                  
+
+       0.066031639 seconds time elapsed
+
+       0.065315000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+       140,408,110      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.065294852 seconds time elapsed
+
+       0.064651000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+             1,426      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,656      dTLB-loads                                                  
+
+       0.063562270 seconds time elapsed
+
+       0.059059000 seconds user
+       0.003937000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,626      instructions:u                                              
+             1,419      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063946091 seconds time elapsed
+
+       0.063743000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+     1,042,148,624      instructions:u                                              
+        45,899,659      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.065202522 seconds time elapsed
+
+       0.064874000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,355      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,651      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+
+       0.063705760 seconds time elapsed
+
+       0.063102000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,593      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,633      L1-dcache-loads                                             
+       140,408,110      branch-loads                                                
+
+       0.063560898 seconds time elapsed
+
+       0.062913000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,799      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,656      L1-dcache-loads                                             
+             1,441      dTLB-load-misses                                            
+
+       0.063820324 seconds time elapsed
+
+       0.063104000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            71,098      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,590      L1-dcache-loads                                             
+        45,899,590      dTLB-loads                                                  
+
+       0.064067821 seconds time elapsed
+
+       0.063466000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            70,022      L1-dcache-load-misses     #    0.15% of all L1-dcache hits  
+        45,899,549      L1-dcache-loads                                             
+       140,396,884      dTLB-stores                                                 
+
+       0.064138439 seconds time elapsed
+
+       0.063431000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,229      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+       140,408,111      branch-loads                                                
+
+       0.063681212 seconds time elapsed
+
+       0.063071000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,420      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+             1,497      dTLB-load-misses                                            
+
+       0.063348518 seconds time elapsed
+
+       0.063131000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:31 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            68,748      L1-dcache-load-misses                                       
+       140,396,884      L1-dcache-stores                                            
+        45,899,659      dTLB-loads                                                  
+
+       0.063615989 seconds time elapsed
+
+       0.062924000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,602      L1-dcache-load-misses                                       
+       140,396,880      L1-dcache-stores                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.064600185 seconds time elapsed
+
+       0.064005000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,315      L1-dcache-load-misses                                       
+       140,408,113      branch-loads                                                
+             1,440      dTLB-load-misses                                            
+
+       0.063785585 seconds time elapsed
+
+       0.063165000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            68,646      L1-dcache-load-misses                                       
+       140,408,109      branch-loads                                                
+        45,899,645      dTLB-loads                                                  
+
+       0.063540269 seconds time elapsed
+
+       0.058985000 seconds user
+       0.003932000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            68,237      L1-dcache-load-misses                                       
+       140,408,111      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.063510295 seconds time elapsed
+
+       0.062964000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,170      L1-dcache-load-misses                                       
+             1,475      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,659      dTLB-loads                                                  
+
+       0.063549296 seconds time elapsed
+
+       0.062897000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            70,527      L1-dcache-load-misses                                       
+             1,460      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.064068065 seconds time elapsed
+
+       0.063377000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+            69,241      L1-dcache-load-misses                                       
+        45,899,648      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063555887 seconds time elapsed
+
+       0.058960000 seconds user
+       0.003930000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,653      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+       140,408,111      branch-loads                                                
+
+       0.063668901 seconds time elapsed
+
+       0.062993000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,646      L1-dcache-loads                                             
+       140,396,884      L1-dcache-stores                                            
+             1,396      dTLB-load-misses                                            
+
+       0.063550501 seconds time elapsed
+
+       0.062903000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,654      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+        45,899,654      dTLB-loads                                                  
+
+       0.063586715 seconds time elapsed
+
+       0.059015000 seconds user
+       0.003934000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,555      L1-dcache-loads                                             
+       140,396,880      L1-dcache-stores                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.064136963 seconds time elapsed
+
+       0.063460000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,571      L1-dcache-loads                                             
+       140,408,109      branch-loads                                                
+             1,462      dTLB-load-misses                                            
+
+       0.064686450 seconds time elapsed
+
+       0.064065000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,659      L1-dcache-loads                                             
+       140,408,111      branch-loads                                                
+        45,899,659      dTLB-loads                                                  
+
+       0.063442956 seconds time elapsed
+
+       0.058895000 seconds user
+       0.003926000 seconds sys
+
+
+# started on Fri Mar  5 11:59:32 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,550      L1-dcache-loads                                             
+       140,408,113      branch-loads                                                
+       140,396,884      dTLB-stores                                                 
+
+       0.063627541 seconds time elapsed
+
+       0.063041000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,647      L1-dcache-loads                                             
+             1,388      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,647      dTLB-loads                                                  
+
+       0.063725400 seconds time elapsed
+
+       0.059118000 seconds user
+       0.003941000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,898,322      L1-dcache-loads                                             
+             1,470      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.070753102 seconds time elapsed
+
+       0.070053000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+        45,899,582      L1-dcache-loads                                             
+        45,899,582      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.063568503 seconds time elapsed
+
+       0.063436000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,880      L1-dcache-stores                                            
+       140,408,110      branch-loads                                                
+             1,403      dTLB-load-misses                                            
+
+       0.064016234 seconds time elapsed
+
+       0.063466000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,884      L1-dcache-stores                                            
+       140,408,112      branch-loads                                                
+        45,899,579      dTLB-loads                                                  
+
+       0.063925175 seconds time elapsed
+
+       0.059265000 seconds user
+       0.003951000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,880      L1-dcache-stores                                            
+       140,408,110      branch-loads                                                
+       140,396,880      dTLB-stores                                                 
+
+       0.064372757 seconds time elapsed
+
+       0.064196000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,884      L1-dcache-stores                                            
+             1,422      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,659      dTLB-loads                                                  
+
+       0.063681684 seconds time elapsed
+
+       0.063003000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,880      L1-dcache-stores                                            
+             1,470      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.063758817 seconds time elapsed
+
+       0.063150000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,396,884      L1-dcache-stores                                            
+        45,899,589      dTLB-loads                                                  
+       140,396,884      dTLB-stores                                                 
+
+       0.063731982 seconds time elapsed
+
+       0.063029000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,109      branch-loads                                                
+             1,445      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,621      dTLB-loads                                                  
+
+       0.062787167 seconds time elapsed
+
+       0.062763000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,112      branch-loads                                                
+             1,499      dTLB-load-misses                                            
+       140,396,880      dTLB-stores                                                 
+
+       0.065487726 seconds time elapsed
+
+       0.064642000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+       140,408,113      branch-loads                                                
+        45,899,481      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.065198122 seconds time elapsed
+
+       0.064452000 seconds user
+       0.000000000 seconds sys
+
+
+# started on Fri Mar  5 11:59:33 2021
+
+
+ Performance counter stats for './PQCgenKAT_sign':
+
+             1,489      dTLB-load-misses          #    0.00% of all dTLB cache hits 
+        45,899,635      dTLB-loads                                                  
+       140,396,880      dTLB-stores                                                 
+
+       0.064369365 seconds time elapsed
+
+       0.052420000 seconds user
+       0.011232000 seconds sys
+
+
