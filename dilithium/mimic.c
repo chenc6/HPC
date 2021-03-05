@@ -72,6 +72,7 @@ void fct_all()
 	"load_loop:\n\t"
 	"nop\n\t"
 	"nop\n\t"
+	"nop\n\t"
 	"mov -16(%rbp), %rax\n\t"
 	"nop\n\t"
 	"nop\n\t"
@@ -108,11 +109,18 @@ void fct_all()
  		//"nop\n\t"
  		"nop\n\t"
  		//"mov %rax, -16(%rbp)\n\t"
- 		"nop\n\t"
+ 		//"nop\n\t"
  		"nop\n\t"
  		"nop\n\t"
  		"loop store_loop\n\t"
- 	);	
+ 	);
+
+ 	//branches
+ 	__asm__ volatile(
+ 		"mov $40000000, %rcx\n\t"
+ 		"branch_loop1:\n\t"
+ 		"loop branch_loop1\n\t"
+ 		);	
 }
 
 // void fct_0123(){

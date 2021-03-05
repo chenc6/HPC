@@ -30,4 +30,4 @@ do
 	echo $f >> output.txt
 done
 
-#./mimic.o
+./mimic.o
